@@ -12,11 +12,12 @@
 <p style="text-align: center;">Professor: Gilmar Ferreira Arantes</p>
 <p style="text-align: center;">Aluno 1:Matrícula:Nome</p>
 <p style="text-align: center;">Aluno 2:Matrícula:Nome</p>
-<p style="text-align: center;">Aluno 3: 201905543 : Mateus da Silveira Batista</p>
-<p style="text-align: center;">Aluno 4:Matrícula:Nome</p>
+<p style="text-align: center;">Aluno 3: (201905543) Mateus da Silveira Batista</p>
+<p style="text-align: center;">Aluno 4: (201802760) Dener Pereira Barbosa</p>
 <p style="text-align: center;">Aluno 5:Matrícula:Nome</p>
 <p style="text-align: center;">Aluno 6:Matrícula:Nome</p>
 </b>
+
 ## Histórico
 |Versão|Data|Alteração|Autor|
 |------|----|---------|-----|
