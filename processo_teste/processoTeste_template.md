@@ -17,7 +17,9 @@
 <p style="text-align: center;">Aluno 5:Matrícula:Nome</p>
 <p style="text-align: center;">Aluno 6:Matrícula:Nome</p>
 </b>
-## Histórico
+
+# Histórico 
+
 |Versão|Data|Alteração|Autor|
 |------|----|---------|-----|
 |0.1|24/04/2019|Elaboração do Documento|gilmar.arantes|
@@ -34,7 +36,7 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <!--![Figura 1 - Etapas do Processo de Teste](./images/ptts.png)-->
 <div align="center">
   <img src="./imagens/ptts.png">
-  <figcaption>Figura 1 - Etapas do Processo de Teste</figcaption>
+  <figcaption> <br/>Figura 1 - Etapas do Processo de Teste</figcaption>
   </div>
 <br>
 
