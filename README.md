@@ -8,7 +8,7 @@ Os participantes deste grupo são os seguintes alunos
 |Matricula|Nome|gitUser|
 |--|--|--|
 |202000300|ALEXANDRE WAGNER CARDOSO RODRIGUES|[awagcr](https://github.com/awagcr)|
-|201804642|CARLOS HENRIQUE SILVA BISPO|[](https://github.com/)|
+|201804642|CARLOS HENRIQUE SILVA BISPO|[Carlosrodrigues-12](https://github.com/Carlosrodrigues-12)|
 |201802760|DENER PEREIRA BARBOSA|[Dener-arx](https://github.com/Dener-arx)|
 |201804673|KESLEY ROZAS DOS SANTOS|[kesleyrozas](https://github.com/)|
 |201905543|MATEUS DA SILVEIRA BATISTA|[MateusSilver](https://github.com/MateusSilver)|
