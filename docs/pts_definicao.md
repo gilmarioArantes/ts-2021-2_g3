@@ -11,7 +11,7 @@
 <p style="text-align: center;">INF303 Teste de Software - 2021/2</p>
 <p style="text-align: center;">Professor: Gilmar Ferreira Arantes</p>
 <p style="text-align: center;">Aluno 1: 201804673 : Kesley Rozas dos Santos</p>
-<p style="text-align: center;">Aluno 2:Matrícula:Nome</p>
+<p style="text-align: center;">Aluno 2: 201804642 : Carlos Henrique Silva Bispo Rodrigues</p>
 <p style="text-align: center;">Aluno 3: 201905543 : Mateus da Silveira Batista</p>
 <p style="text-align: center;">Aluno 4:Matrícula:Nome</p>
 <p style="text-align: center;">Aluno 5:Matrícula:Nome</p>
