@@ -159,4 +159,4 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Considerações Finais
-<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.></span>
+<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.</span>
