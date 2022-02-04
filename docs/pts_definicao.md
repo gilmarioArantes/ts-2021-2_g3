@@ -10,13 +10,11 @@
 <p style="text-align: center;">Bacharelado em Enenharia de Software</p>
 <p style="text-align: center;">INF303 Teste de Software - 2021/2</p>
 <p style="text-align: center;">Professor: Gilmar Ferreira Arantes</p>
-=======
 <p style="text-align: center;">Aluno 1: (201804673) Kesley Rozas dos Santos</p>
 <p style="text-align: center;">Aluno 2: (201804642) Carlos Henrique Silva Bispo Rodrigues</p>
 <p style="text-align: center;">Aluno 3: (201905543) Mateus da Silveira Batista</p>
 <p style="text-align: center;">Aluno 4: (201802760) Dener Pereira Barbosa</p>
 <p style="text-align: center;">Aluno 5:Matrícula:Nome</p>
-<p style="text-align: center;">Aluno 6:Matrícula:Nome</p>
 </b>
 
 ## Histórico
@@ -30,13 +28,13 @@
 # Introdução
 
 <span style="color:blue">
-Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdução deverá informar se o processo de teste do grupo é para um projeto de desenvolvimento ou para um projeto de manutenção de software
+Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdução deverá informar se o processo de teste do grupo é para um projeto de desenvolvimento ou para um projeto de manutenção de software.
 </span>
 
 <!--![Figura 1 - Etapas do Processo de Teste](./images/ptts.png)-->
 <div align="center">
   <img src="./imagens/ptts.png">
-  <figcaption>Figura 1 - Etapas do Processo de Teste</figcaption>
+  <figcaption><br/>Figura 1 - Etapas do Processo de Teste</figcaption>
   </div>
 <br>
 
@@ -117,7 +115,7 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Executar
-<span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.></span>
+<span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
 ## Atividade 1
 
@@ -138,7 +136,7 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Entregar
-<span style="color:blue">Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.></span>
+<span style="color:blue">Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
 ## Atividade 1
 
@@ -159,4 +157,4 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Considerações Finais
-<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.></span>
+<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.</span>
