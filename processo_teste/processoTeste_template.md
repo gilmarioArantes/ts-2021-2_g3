@@ -13,11 +13,13 @@
 <p style="text-align: center;">Aluno 1: Kesley Rozas dos Santos Matrícula: 201804673</p>
 <p style="text-align: center;">Aluno 2:Matrícula:Nome</p>
 <p style="text-align: center;">Aluno 3:Matrícula:Nome</p>
-<p style="text-align: center;">Aluno 4:Matrícula:Nome</p>
+<p style="text-align: center;">Aluno 4:Dener Pereira Barbosa - 201802760</p>
 <p style="text-align: center;">Aluno 5:Matrícula:Nome</p>
 <p style="text-align: center;">Aluno 6:Matrícula:Nome</p>
 </b>
-## Histórico
+
+# Histórico 
+
 |Versão|Data|Alteração|Autor|
 |------|----|---------|-----|
 |0.1|24/04/2019|Elaboração do Documento|gilmar.arantes|
@@ -34,7 +36,7 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <!--![Figura 1 - Etapas do Processo de Teste](./images/ptts.png)-->
 <div align="center">
   <img src="./imagens/ptts.png">
-  <figcaption>Figura 1 - Etapas do Processo de Teste</figcaption>
+  <figcaption> <br/>Figura 1 - Etapas do Processo de Teste</figcaption>
   </div>
 <br>
 
@@ -157,4 +159,4 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Considerações Finais
-<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.></span>
+<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.</span>
