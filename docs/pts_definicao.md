@@ -14,7 +14,7 @@
 <p style="text-align: center;">Aluno 2: (201804642) Carlos Henrique Silva Bispo Rodrigues</p>
 <p style="text-align: center;">Aluno 3: (201905543) Mateus da Silveira Batista</p>
 <p style="text-align: center;">Aluno 4: (201802760) Dener Pereira Barbosa</p>
-<p style="text-align: center;">Aluno 5:Matrícula:Nome</p>
+<p style="text-align: center;">Aluno 5: (202000300) Alexandre Wagner Cardoso Rodrigues</p>
 </b>
 
 ## Histórico
