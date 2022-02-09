@@ -27,4 +27,4 @@
 
 ### 4. Entregar (Inclui 8.5)
 - Analiza Resultados de Teste
-- Cria/Update Registro de Incidentes
+- Cria/Atualiza Registro de Incidentes
