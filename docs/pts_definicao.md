@@ -30,13 +30,13 @@
 # Introdução
 
 <span style="color:blue">
-Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdução deverá informar se o processo de teste do grupo é para um projeto de desenvolvimento ou para um projeto de manutenção de software
+Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdução deverá informar se o processo de teste do grupo é para um projeto de desenvolvimento ou para um projeto de manutenção de software.
 </span>
 
 <!--![Figura 1 - Etapas do Processo de Teste](./images/ptts.png)-->
 <div align="center">
   <img src="./imagens/ptts.png">
-  <figcaption>Figura 1 - Etapas do Processo de Teste</figcaption>
+  <figcaption><br/>Figura 1 - Etapas do Processo de Teste</figcaption>
   </div>
 <br>
 
@@ -128,7 +128,8 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 
 # Executar
 
-<span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.></span>
+<span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+
 
 ## Atividade 1
 
@@ -149,8 +150,8 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Entregar
+<span style="color:blue">Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
-<span style="color:blue">Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.></span>
 
 ## Atividade 1
 
@@ -171,5 +172,5 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
 # Considerações Finais
+<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.</span>
 
-<span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.></span>
