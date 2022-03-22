@@ -52,19 +52,19 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 
 # Planejar
 
-<span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+<span style="color:blue"></span>
 
-## Atividade 1 (definir)
+## Definir conjunto de funcionalidades
 
-<span style="color:blue">Descrever a atividade 1</span>
+<span style="color:blue">Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software</span>
 
 ### Responsável(eis)
 
-<span style="color:blue">quais são os papéis envolvidos nesta atividade?</span>
+<span style="color:blue">Analista de software</span>
 
 ### Quando
 
-<span style="color:blue">quando a atividade deve ser executada?</span>
+<span style="color:blue">Software aprovado para testes, plano de teste definido</span>
 
 ### Como
 
