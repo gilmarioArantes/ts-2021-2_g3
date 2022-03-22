@@ -17,12 +17,6 @@ Kesley
 ### 2. Projetar (8.2)
 Mateus
 - Identificar Conjunto de Funcionalidades
-- 
-- Definir Plano de testes
-- Especificar Projeto de Testes
-- Especificar casos de teste
-- Especificar procedimentos de teste
-- 
 - Derivar Condições de Teste
 - Derivar Itens de Cobertura de Teste
 - Derivar Casos de Teste
