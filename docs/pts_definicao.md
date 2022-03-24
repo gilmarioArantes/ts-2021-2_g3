@@ -257,6 +257,79 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 <span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
 
+<span style="color:blue">Analise do plano de testes e projeto de testes pelo analista, definindo os requisitos a serem testados e processo de teste a ser usado pelos testadores</span>
+
+## Identificar Conjunto de Funcionalidades
+
+### Responsável
+<span style="color:blue">Analista de software</span>
+
+### Quando:
+<span style="color:blue">Plano de testes definido e aprovado</span>
+### Como:
+<span style="color:blue">Analista de software consulta plano de testes e seleciona requisitos funcionais que sejam passiveis de teste, documentando no plano a lista de requisitos que serão testados</span>
+### Prazo:
+<span style="color:blue">Algumas horas</span>
+### Entradas:
+<span style="color:blue">Plano de testes, documentação de requisitos</span>
+### Saídas:
+
+### Fluxo:
+
+<span style="color:blue">Derivar condições de teste</span>
+
+## Derivar condições de teste
+
+### Responsável
+<span style="color:blue">Analista de software</span>
+### Quando:
+<span style="color:blue">Requisitos a serem testados definidos</span>
+### como
+<span style="color:blue">Definir Condições de teste para cada requisito a ser testado, atraves de particionamento por equivalencia e analises de valor limite</span>
+### Prazo:
+<span style="color:blue">algumas horas</span>
+### Entradas:
+<span style="color:blue">Plano de testes, documentação de requisitos</span>
+### Saídas:
+<span style="color:blue">Condições a serem testadas, estados a serem testados, preparação para casos de teste definidas em gráfico de causa e efeito</span>
+### Fluxo:
+<span style="color:blue">Derivar itens de cobertura de teste</span>
+
+## Derivar itens de cobertura de teste
+
+### Responsável
+<span style="color:blue">Analista de software</span>
+### Quando:
+<span style="color:blue">grafico de causa e efeito construido, plano de testes definido e condições a serem testadas definidas</span>
+### como
+<span style="color:blue">Analista observa quais funções do sistema realizam as ações a serem testadas e isola funcionalidades para teste, definindo funções do software para teste das causas definidas no grafico</span>
+### Prazo:
+<span style="color:blue">Algumas horas</span>
+
+### Entradas:
+<span style="color:blue">Gráfico de causa e efeito, plano de testes, documento de requisitos</span>
+
+### Saídas:
+<span style="color:blue">Lista de arquivos onde será realizado os testes e funções do programa a serem testadas</span>
+### Fluxo:
+<span style="color:blue">Derivar Casos de Teste</span>
+
+## Derivar Casos de Teste
+
+### Responsável
+<span style="color:blue">Analista de software</span>
+### Quando:
+<span style="color:blue">Funções do programa definidas pra teste e isoladas, preparadas para teste. Grafico de causa e efeitos esperados definidos</span>
+### como
+<span style="color:blue">Construção de planilhas de caso de teste para cada documento e requisito funcional a ser testado do programa, preparando as planilhas para  teste de todas as partições de equivalencia e registrando seus possiveis resultados esperados do grafico de causa e efeito</span>
+### Prazo:
+<span style="color:blue">1 dia</span>
+### Entradas:
+<span style="color:blue">Documento de requisitos, graficos de causa e efeito, plano de testes com especificação de testes</span>
+### Saídas:
+<span style="color:blue">Casos de testes especificados e prontos para execução</span>
+### Fluxo:
+
 # Executar
 
 <span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
