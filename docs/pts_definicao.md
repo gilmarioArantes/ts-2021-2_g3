@@ -369,6 +369,8 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 
 <span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
+![image](imagens/Executar.png)
+
 ## Atividade - Preparar Ambiente de Teste
 
 <span style="color:blue">
