@@ -123,6 +123,11 @@ Os objetivos de teste do projeto e os meios para alcançá-los Determina o esfor
 
 #### Definir o escopo do teste
 
+```diff
+! Esta parte está um pouco estranho.
+! Tente reescrever isso como se você estivesse instruindo alguem em como fazer, ao inves de explicando como fazer.
+```
+
 <span style="color:blue">
 
 Antes do início de qualquer atividade de teste, o escopo do teste deve ser conhecido. Você deve pensar muito sobre isso.
@@ -368,6 +373,8 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 # Executar
 
 <span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+
+![image](imagens/Executar.png)
 
 ## Atividade - Preparar Ambiente de Teste
 
