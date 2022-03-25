@@ -220,10 +220,12 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ### Como
 
-<span style="color:blue">As opiniões das partes interessadas sobre o plano de teste devem ser coletadas.</span>
-<span style="color:blue">Os conflitos entre o plano de teste e as opiniões das partes interessadas devem ser resolvidos.</span>
-<span style="color:blue">O plano de teste deve ser atualizado para levar em consideração o feedback das partes interessadas.</span>
-<span style="color:blue">A aprovação do plano de teste deve ser obtida das partes interessadas.</span>
+<span style="color:blue">
+As opiniões das partes interessadas sobre o plano de teste devem ser coletadas.</br>
+Os conflitos entre o plano de teste e as opiniões das partes interessadas devem ser resolvidos.</br>
+O plano de teste deve ser atualizado para levar em consideração o feedback das partes interessadas.</br>
+A aprovação do plano de teste deve ser obtida das partes interessadas.
+</span>
 
 ### Entradas
 
@@ -335,19 +337,164 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 <span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
 
-## Atividade 1
+## Atividade 1 - Preparar Ambiente de Teste
 
-### Responsável
+<span style="color:blue">
+  Um ambiente de teste é preparado, simulando o ambiente de implanatação do software, o que garante uma maior precisão na execução dos testes. </br>
+  O ambiente de teste está sujeito à alterações baseadas nas necessidades ou resultados de testes. 
+</span>
+
+### Responsável:
+
+<span style="color:blue">
+  Gerente de Configuração </br>
+  Tester
+</span>
 
 ### Quando:
 
-### como
+<span style="color:blue">
+  Antes de realizar os testes.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  De acordo com o especificado nas Configurações de Ambiente de Teste presente no Plano de Teste.
+</span>
+
+### Prazo:
+
+### Entradas:
+
+<span style="color:blue">
+  Plano de Teste
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+  Aprovação para Execução de Testes.
+</span>
+
+### Fluxo:
+
+<span style="color:blue">
+  Identificar e descrever outras atividades componentes desta fase do processo.
+</span>
+
+## Atividade 2 - Executar Testes
+
+<span style="color:blue">
+  Os testes são executados de acordo com o planejado e seus resultados são registrados.
+</span>
+
+### Responsável:
+
+<span style="color:blue">
+  Tester
+</span>
+
+### Quando:
+
+<span style="color:blue">
+  Após preparação do Ambiente de Teste. </br>
+  Após o projeto de testes do componente a ser testado for concluido.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  De acordo com o especificado no Projeto de Teste.
+</span>
+
+### Prazo:
+
+### Entradas:
+
+<span style="color:blue">
+Aprovação para Execução de Teste. </br>
+Conjunto de Testes. 
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+Resultados Atuais de Testes. 
+</span>
+
+### Fluxo:
+
+<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
+
+## Atividade 3 - Comparar Resultados de Testes
+
+Os resultados dos testes são comparados com as saidas esperadas, para verificar se o software está funcionando corretamente
+
+### Responsável:
+
+### Quando:
+
+<span style="color:blue">
+Imediatamente após as execução dos testes. 
+</span>
+
+### Como:
+
+### Prazo:
+
+### Entradas:
+
+<span style="color:blue">
+Resultados Atuais de Teste </br>
+Resultados Esperados de Teste
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+Resultados de Teste
+</span>
+
+### Fluxo:
+
+<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
+
+## Atividade 4 - Registrar Execução de Teste
+
+<span style="color:blue">
+  A execução de testes é registrada.
+</span>
+
+
+
+### Responsável:
+
+<span style="color:blue">
+  Registro de Testes
+</span>
+
+### Quando:
+
+<span style="color:blue">
+  Durante o processo de execução de testes e comparação de resultados de teste.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  Atraves de um log de execução dos testes, e registros manuais, caso necessário.
+</span>
 
 ### Prazo:
 
 ### Entradas:
 
 ### Saídas:
+
+<span style="color:blue">
+  Registro de Testes
+</span>
 
 ### Fluxo:
 
