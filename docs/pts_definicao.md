@@ -415,7 +415,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
   Próxima Atividades: Executar Testes, Registrar Execução de Teste.
 </span>
 
-## Atividade 2 - Executar Testes
+## Atividade - Executar Testes
 
 <span style="color:blue">
   Os testes são executados de acordo com o planejado e seus resultados são registrados.
