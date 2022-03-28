@@ -30,7 +30,7 @@
 # Introdução
 
 <span style="color:blue">
-Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdução deverá informar se o processo de teste do grupo é para um projeto de desenvolvimento ou para um projeto de manutenção de software.
+<p>O processo de teste será usado para apoiar um projeto de desenvolvimento. Esse documento será utilizado para guiar os processos do projeto, descrever os requisitos a testar, os tipos de testes definidos, os recursos de hardware e software serem empregados, cronograma dos testes e entregas do projeto.</p>
 </span>
 
 <!--![Figura 1 - Etapas do Processo de Teste](./images/ptts.png)-->
