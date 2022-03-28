@@ -40,7 +40,14 @@
   </div>
 <br>
 
-<span style="color:blue">Descrever em alto nível as etapas constituintes do processo, conforme Figura 1.</span>
+#### Planejar
+<span><p>Nesta etapa procura-se entender, inicialmente: Metas e objetivos do projeto e do cliente; Riscos do projeto; Escopo do trabalho;</p><p>Os principais objetivos da etapa de planejamento são verificar a missão, definir os objetivos e as atividades de teste a serem realizadas.</p><p>É durante essa etapa que se cria o Plano de Teste, um documento que descreve o escopo, abordagem, recursos e cronograma das atividades de teste. Nele, estão documentadas as exceções quanto à abordagem do teste, recursos a serem utilizados, equipe envolvida e as técnicas a serem aplicadas.</p></span>
+#### Projetar
+<span><p>É durante a etapa de Projetar (Análise e Modelagem), que as condições do teste são produzidas.</p><p>Uma Condição de Teste define “o quê” será testado. Pode ser definida, de acordo com o BSTQB, como um item ou evento de um componente ou sistema que pode ser verificado por meio de um ou mais casos de teste. Ou seja, pode ser uma função, transação, característica, atributo de qualidade ou elemento estrutural. Tem como propósito transformar os objetivos do teste em algo tangível.</p><p>Essa etapa do processo de teste tem o propósito de exercitar eficientemente as condições de uso do software, procurando atingir o máximo de cobertura com o mínimo de casos de teste.</p><p>Aqui, especificamos as condições de teste (cobertura de itens) para um item de teste (componente ou funcionalidade do software que deve ser testado), detalhando a abordagem do teste e identificando os casos de teste de alto nível associados.</p></span>
+#### Executar
+<span><p>Durante a etapa de Implementação e Execução do teste, procura-se realizar a especificação dos procedimentos e/ou scripts de teste através da combinação de casos de teste em ordem particular.</p><p>Ou seja: é hora de transformar condições de teste em casos e procedimentos de teste. Casos de teste lógicos devem ser transformados em casos de teste concretos, que serão utilizados posteriormente para a execução.</p></span>
+#### Entregar
+<span><p>Na última etapa desse processo, realiza-se as Atividades de Encerramento do teste, onde coletamos todos os dados de todas as outras etapas para consolidar a experiência final obtida, fatos e números consolidados.</p><p>Ainda checamos se todos os entregáveis planejados foram realmente entregues, fechamos relatórios e incidentes, documentamos o aceite do sistema, ambientes de teste, infraestrutura de teste para reuso, analisamos as lições aprendidas para determinar as mudanças para futuros projetos, e melhoramos a maturidade dos testes com as informações obtidas.</p></span>
 
 ## Papéis
 
