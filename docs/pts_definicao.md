@@ -51,7 +51,14 @@
 
 ## Papéis
 
-<span style="color:blue">Descrever quais os papéis (roles) envolvidos no processo de teste.</span>
+||Coordenador de Testes|Líder de Testes|Arquiteto de Testes|
+|------|------|------|------|
+|Estudo do Projeto|Executa|Colabora|Colabora|
+|Avaliação de Impacto|-|Executa|Executa|
+|Análise Interna Esforço|-|Executa|Executa|
+|Análise Externa Esforço|-|Executa|Executa|
+|Definição de Cenários Possíveis|Executa|Colabora|Colabora|
+|Aprovação do Planejamento|Executa|Colabora|Colabora|
 
 ## Ambiente de teste
 
