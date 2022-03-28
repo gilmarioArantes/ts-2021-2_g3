@@ -66,6 +66,13 @@
 
 # Planejar
 
+<!--![Figura 2 - 1ª Etapa do Processo de Teste - Fase de Planejamento](./images/Processo_Teste_Software-Planejar1.0.png)-->
+<div align="center">
+  <img src="./imagens/Processo_Teste_Software-Planejar1.0.png">
+  <p>Figura 2 - 1ª Etapa do Processo de Teste - Fase de Planejamento</p>
+  </div>
+<br>
+
 <span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
 ## Atividade 1 (definir)
