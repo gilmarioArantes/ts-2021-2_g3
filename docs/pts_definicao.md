@@ -129,49 +129,37 @@
 ## Atividade - Projetar Estratégia de Testes
 
 <span style="color:blue">
-  A estratégia de teste é um passo crítico na criação de um plano de teste. Um documento de estratégia de teste, é um documento de alto nível, geralmente desenvolvido pelo Test Manager. Este documento define:
+A estratégia de teste é um passo crítico na criação de um plano de teste. Um documento de estratégia de teste, é um documento de alto nível, geralmente desenvolvido pelo Arquiteto de Testes. Este documento define:
 
-Os objetivos de teste do projeto e os meios para alcançá-los Determina o esforço e os custos do teste
+Os objetivos de teste do projeto e os meios para alcançá-los Determina o esforço e os custos do teste.
+
 </span>
 
 ### Responsável(eis):
 
 <span style="color:blue">
-  Test Manager.
+  	Coordenador de Testes, Arquiteto de Testes
 </span>
 
 ### Como:
 
 #### Definir o escopo do teste
 
-```diff
-! Esta parte está um pouco estranho.
-! Tente reescrever isso como se você estivesse instruindo alguem em como fazer, ao inves de explicando como fazer.
-```
-
 <span style="color:blue">
 
-Antes do início de qualquer atividade de teste, o escopo do teste deve ser conhecido. Você deve pensar muito sobre isso.
+O escopo do teste deve ser conhecido para que seja realizado o teste engolando do o escopo.
 
 Os componentes do sistema a serem testados (hardware, software, middleware, etc.) são definidos como "no escopo".
 
-Os componentes do sistema que não serão testados também precisam ser claramente definidos como "fora do escopo". Definir o escopo do seu projeto de teste é muito importante para todas as partes interessadas. Um escopo preciso ajuda você
+Os componentes do sistema que não serão testados também precisam ser claramente definidos como "fora do escopo". Definir o escopo do seu projeto de teste é muito importante para todas as partes interessadas. Dê a todos uma confiança e informações precisas dos testes que você está fazendo todos os membros do projeto terão uma compreensão clara sobre o que é testado e o que não é.
 
-Dê a todos uma confiança e informações precisas dos testes que você está fazendo
+Como vamos determina o escopo do seu projeto?
 
-Todos os membros do projeto terão uma compreensão clara sobre o que é testado e o que não é
+Para determinar o escopo, você precisará:
 
-Como você determina o escopo do seu projeto?
-
-Para determinar o escopo, você precisa:
-
-Exigência precisa do cliente
-
-Orçamento do projeto
-
-Especificação do produto
-
-Habilidades e talento da sua equipe de teste</span>
+  - Exigência precisa do cliente
+  - Orçamento do projeto
+  - Especificação do produto</span>
 
 #### Identifique o tipo de teste
 
@@ -179,33 +167,34 @@ Habilidades e talento da sua equipe de teste</span>
 
 Um tipo de teste é um procedimento de teste padrão que fornece um resultado de teste esperado.
 
-Cada tipo de teste é formulado para identificar um tipo específico de problemas em um produto. Porém, todos os tipos de testes visam atingir um objetivo comum: "Detecção antecipada de todos os defeitos antes de liberar o produto para o cliente"</span>
+Cada tipo de teste é formulado para identificar um tipo específico de problemas em um produto. Porém, todos os tipos de testes visam atingir um objetivo comum: "Detecção antecipada de todos os defeitos antes de liberar o produto para o cliente"
+
+Neste momento deve-se definir quais os tipo de testes serão realizados:
+
+  - Teste de Aceitação
+  - Teste de Sistema
+  - Teste de Integração
+  - Teste de Unidade
+
+</span>
 
 #### Criar Logística de Teste
 
 <span style="color:blue">
 
-Em Test Logistics, o Test Manager deve responder às seguintes perguntas:
+Nesta etapa o Coordenador de Teste deve responder às seguintes perguntas: Quem vai testar? Quando o teste ocorrerá? Quem vai testar?
 
-Quem vai testar?
+Inicie selecionando o membro certo para a tarefa especificada, você deve considerar se a habilidade dele está qualificada para a tarefa ou não, também estimar o orçamento do projeto. Selecionar um membro errado para a tarefa pode causar falha ou atraso no projeto. A pessoa com as seguintes habilidades é a mais ideal para realizar testes de software:
 
-Quando o teste ocorrerá?
-
-Quem vai testar?
-Você pode não saber o nome exatos do testador, mas o tipo de testador pode ser definido. Para selecionar o membro certo para a tarefa especificada, você deve considerar se a habilidade dele está qualificada para a tarefa ou não, também estimar o orçamento do projeto. Selecionar um membro errado para a tarefa pode causar falha ou atraso no projeto. A pessoa com as seguintes habilidades é a mais ideal para realizar testes de software:
-
-Capacidade de entender o ponto de vista dos clientes
-
-Forte desejo de qualidade
-
-Atenção aos detalhes
-
-Boa cooperação Em seu projeto, o membro que assumirá a execução do teste será o testador. Com base no orçamento do projeto, você pode escolher membro de origem ou terceirizar como testador.</span>
+  - Capacidade de entender o ponto de vista dos clientes
+  - Forte desejo de qualidade
+  - Atenção aos detalhes
+</span>
 
 #### Definir critérios de teste
 
 <span style="color:blue">
-Critérios de teste é um padrão ou regra na qual um procedimento de teste ou julgamento de teste pode ser baseado. Existem 2 tipos de critérios de teste da seguinte forma
+Deve se definir alguns critérios de testes para se obter agilidade no projeto, existem 2 tipos de critérios de teste que podem ser utilizados são eles:
 
 Critérios de Suspensão
 
@@ -228,7 +217,7 @@ Especifica os critérios que indicam uma conclusão bem-sucedida de uma fase de 
 
 ### Responsável(eis)
 
-<span style="color:blue">Test Manager - Com base na estimativa, o Test Manager sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
+<span style="color:blue">Coordenador de Testes - Com base na estimativa, o Tester sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
 
 ### Como
 
@@ -238,9 +227,9 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ### Entradas
 
-<span style="color:blue">Para criar o cronograma do projeto, o Test Manager precisa de vários tipos de entrada, conforme abaixo:</span>
+<span style="color:blue">Para criar o cronograma do projeto, o Coordenador de Testes precisa de vários tipos de entrada, conforme abaixo:</span>
 <span style="color:blue">Prazo para funcionários e projetos: os dias úteis, o prazo final do projeto, a disponibilidade de recursos são os fatores que afetaram o cronograma</span>
-<span style="color:blue">Estimativa de projeto: Com base na estimativa, o Test Manager sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
+<span style="color:blue">Estimativa de projeto: Com base na estimativa, o Coordenador de Testes sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
 
 ### Fluxo:
 
@@ -252,7 +241,7 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ### Responsável(eis):
 
-<span style="color:blue">Test Manager</span>
+<span style="color:blue">Lider de Teste, Arquiteto de Teste</span>
 
 ### Como:
 
@@ -261,7 +250,7 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ### Entradas:
 
-<span style="color:blue">Para registrar o teste, o Test Manager precisa da entrada, conforme abaixo:</span>
+<span style="color:blue">Para registrar o teste, o Lider de Teste precisa da entrada, conforme abaixo:</span>
 <span style="color:blue">Documentações anteriores para analise, para registrar o plano.</span>
 
 ### Fluxo:
@@ -274,7 +263,7 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ### Responsável(eis):
 
-<span style="color:blue">Test Manager e Partes Interessadas</span>
+<span style="color:blue">Coordenador de Testes</span>
 
 ### Como:
 
@@ -288,7 +277,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Entradas:
 
 <span style="color:blue">
-  Para criar o cronograma do projeto, o Test Manager precisa de vários tipos de entrada, conforme abaixo: </br>
+  Para criar o cronograma do projeto, o Coordenador de Testes precisa de vários tipos de entrada, conforme abaixo: </br>
   Isso pode ser alcançado por meio de workshops, entrevistas ou outros meios adequados.
   </span>
 
