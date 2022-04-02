@@ -454,8 +454,10 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Quando:
 
 <span style="color:blue">
-  Após preparação do Ambiente de Teste. </br>
-  Após o projeto de testes do componente a ser testado for concluido.
+  
+  - Após preparação do Ambiente de Teste. </br>
+  - Após o projeto de testes do componente a ser testado for concluido.
+
 </span>
 
 ### Como:
@@ -496,6 +498,10 @@ Os resultados dos testes são comparados com as saidas esperadas, para verificar
 
 ### Responsável(eis):
 
+<span style="color:blue">
+Tester 
+</span>
+
 ### Quando:
 
 <span style="color:blue">
@@ -511,7 +517,7 @@ Imediatamente após as execução dos testes.
 ### Prazo:
 
 <span style="color:blue">
-1 Dia
+Não Definido
 </span>
 
 ### Entradas:
@@ -560,7 +566,15 @@ Registro de Não Conformidades.
 
 ### Prazo:
 
+<span style="color:blue">
+  Não Definido.
+</span>
+
 ### Entradas:
+
+<span style="color:blue">
+  N/A
+</span>
 
 ### Saídas:
 
