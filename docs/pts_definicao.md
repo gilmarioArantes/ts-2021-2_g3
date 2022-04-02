@@ -334,7 +334,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 <span style="color:blue">Analista de software</span>
 ### Quando:
 <span style="color:blue">Requisitos a serem testados definidos</span>
-### como
+### Como:
 <span style="color:blue">Definir Condições de teste para cada requisito a ser testado, atraves de particionamento por equivalencia e analises de valor limite</span>
 ### Prazo:
 <span style="color:blue">algumas horas</span>
@@ -409,15 +409,21 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Como:
 
 <span style="color:blue">
-  De acordo com o especificado nas Configurações de Ambiente de Teste presente no Plano de Teste.
+  O ambiente de teste deve ser preparado de acordo com as Configurações de Ambiente de Teste resultadas da atividade 'Derivar Condições de Teste'.
 </span>
 
 ### Prazo:
 
+<span style="color:blue">
+  1 dia.
+</span>
+  
 ### Entradas:
 
 <span style="color:blue">
-  Plano de Teste
+  Plano de Teste </br>
+  Condições de Teste </br>
+  Estados de Teste  
 </span>
 
 ### Saídas:
@@ -429,7 +435,8 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Fluxo:
 
 <span style="color:blue">
-  Próxima Atividades: Executar Testes, Registrar Execução de Teste.
+  Executar Testes </br>
+  Registrar Execução de Teste.
 </span>
 
 ## Atividade - Executar Testes
@@ -447,18 +454,24 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Quando:
 
 <span style="color:blue">
-  Após preparação do Ambiente de Teste. </br>
-  Após o projeto de testes do componente a ser testado for concluido.
+  
+  - Após preparação do Ambiente de Teste. </br>
+  - Após o projeto de testes do componente a ser testado for concluido.
+
 </span>
 
 ### Como:
 
 <span style="color:blue">
-  De acordo com o especificado no Projeto de Teste.
+  Cada caso de teste deve ser executado de acordo com o especificado na fase de projeto de teste.   
 </span>
 
 ### Prazo:
 
+<span style="color:blue">
+  Não Definido.
+</span>
+  
 ### Entradas:
 
 <span style="color:blue">
@@ -475,7 +488,8 @@ Resultados Atuais de Testes.
 ### Fluxo:
 
 <span style="color:blue">
-  Próxima Atividade: Comparar Resultados de Testes
+  Comparar Resultados de Testes. </br>
+  Registrar Execução de Testes.
 </span>
 
 ## Atividade - Comparar Resultados de Testes
@@ -483,6 +497,10 @@ Resultados Atuais de Testes.
 Os resultados dos testes são comparados com as saidas esperadas, para verificar se o software está funcionando corretamente
 
 ### Responsável(eis):
+
+<span style="color:blue">
+Tester 
+</span>
 
 ### Quando:
 
@@ -492,7 +510,15 @@ Imediatamente após as execução dos testes.
 
 ### Como:
 
+<span style="color:blue">
+  Os resultados de teste obtidos durante a fase de execução devem ser comparados com os resultados esperados do sistema formulados durante a fase de projeto, registrando qualquer divergência encontrada.
+</span>
+
 ### Prazo:
+
+<span style="color:blue">
+Não Definido
+</span>
 
 ### Entradas:
 
@@ -504,13 +530,14 @@ Resultados Esperados de Teste
 ### Saídas:
 
 <span style="color:blue">
-Resultados de Teste
+Resultados de Teste. </br>
+Registro de Não Conformidades.
 </span>
 
 ### Fluxo:
 
 <span style="color:blue">
-  Próxima Atividade: 
+  Próxima Atividade: Entrega
 </span>
 
 ## Atividade - Registrar Execução de Teste
@@ -539,7 +566,15 @@ Resultados de Teste
 
 ### Prazo:
 
+<span style="color:blue">
+  Não Definido.
+</span>
+
 ### Entradas:
+
+<span style="color:blue">
+  N/A
+</span>
 
 ### Saídas:
 
@@ -550,7 +585,7 @@ Resultados de Teste
 ### Fluxo:
 
 <span style="color:blue">
-  Próxima Atividade:
+  Entrega
 </span>
 
 # Entregar
