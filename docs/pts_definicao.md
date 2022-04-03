@@ -30,7 +30,7 @@
 # Introdução
 
 <span style="color:blue">
-Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdução deverá informar se o processo de teste do grupo é para um projeto de desenvolvimento ou para um projeto de manutenção de software.
+<p>O processo de teste será usado para apoiar um projeto de desenvolvimento. Esse documento será utilizado para guiar os processos do projeto, descrever os requisitos a testar, os tipos de testes definidos, os recursos de hardware e software serem empregados, cronograma dos testes e entregas do projeto.</p>
 </span>
 
 <!--![Figura 1 - Etapas do Processo de Teste](./images/ptts.png)-->
@@ -40,11 +40,25 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
   </div>
 <br>
 
-<span style="color:blue">Descrever em alto nível as etapas constituintes do processo, conforme Figura 1.</span>
+#### Planejar
+<span><p>Nesta etapa procura-se entender, inicialmente: Metas e objetivos do projeto e do cliente; Riscos do projeto; Escopo do trabalho;</p><p>Os principais objetivos da etapa de planejamento são verificar a missão, definir os objetivos e as atividades de teste a serem realizadas.</p><p>É durante essa etapa que se cria o Plano de Teste, um documento que descreve o escopo, abordagem, recursos e cronograma das atividades de teste. Nele, estão documentadas as exceções quanto à abordagem do teste, recursos a serem utilizados, equipe envolvida e as técnicas a serem aplicadas.</p></span>
+#### Projetar
+<span><p>É durante a etapa de Projetar (Análise e Modelagem), que as condições do teste são produzidas.</p><p>Uma Condição de Teste define “o quê” será testado. Pode ser definida, de acordo com o BSTQB, como um item ou evento de um componente ou sistema que pode ser verificado por meio de um ou mais casos de teste. Ou seja, pode ser uma função, transação, característica, atributo de qualidade ou elemento estrutural. Tem como propósito transformar os objetivos do teste em algo tangível.</p><p>Essa etapa do processo de teste tem o propósito de exercitar eficientemente as condições de uso do software, procurando atingir o máximo de cobertura com o mínimo de casos de teste.</p><p>Aqui, especificamos as condições de teste (cobertura de itens) para um item de teste (componente ou funcionalidade do software que deve ser testado), detalhando a abordagem do teste e identificando os casos de teste de alto nível associados.</p></span>
+#### Executar
+<span><p>Durante a etapa de Implementação e Execução do teste, procura-se realizar a especificação dos procedimentos e/ou scripts de teste através da combinação de casos de teste em ordem particular.</p><p>Ou seja: é hora de transformar condições de teste em casos e procedimentos de teste. Casos de teste lógicos devem ser transformados em casos de teste concretos, que serão utilizados posteriormente para a execução.</p></span>
+#### Entregar
+<span><p>Na última etapa desse processo, realiza-se as Atividades de Encerramento do teste, onde coletamos todos os dados de todas as outras etapas para consolidar a experiência final obtida, fatos e números consolidados.</p><p>Ainda checamos se todos os entregáveis planejados foram realmente entregues, fechamos relatórios e incidentes, documentamos o aceite do sistema, ambientes de teste, infraestrutura de teste para reuso, analisamos as lições aprendidas para determinar as mudanças para futuros projetos, e melhoramos a maturidade dos testes com as informações obtidas.</p></span>
 
 ## Papéis
 
-<span style="color:blue">Descrever quais os papéis (roles) envolvidos no processo de teste.</span>
+||Coordenador de Testes|Líder de Testes|Arquiteto de Testes|
+|------|------|------|------|
+|Estudo do Projeto|Executa|Colabora|Colabora|
+|Avaliação de Impacto|-|Executa|Executa|
+|Análise Interna Esforço|-|Executa|Executa|
+|Análise Externa Esforço|-|Executa|Executa|
+|Definição de Cenários Possíveis|Executa|Colabora|Colabora|
+|Aprovação do Planejamento|Executa|Colabora|Colabora|
 
 ## Ambiente de teste
 
@@ -52,102 +66,135 @@ Fazer uma introdução ao processo de teste elaborado pelo grupo. Nesta introdu�
 
 # Planejar
 
-<span style="color:blue"></span>
+<!--![Figura 2 - Fase de planejamento](./images/Processo_Teste_Software-Planejar1.0.png)-->
+<div align="center">
+  <img src="./imagens/Processo_Teste_Software-Planejar1.0.png">
+  <figcaption><br/>Figura 2 - Fase de planejamento</figcaption>
+  </div>
+<br>
 
-## Definir conjunto de funcionalidades
+<span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
-<span style="color:blue">Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software</span>
+## Atividade - Definir conjunto de funcionalidades
+```diff
+- Existem duas dessa atividade, Esta e um 'Identificar Conjunto de Funcionalidades', e de acordo com a norma ela pertence a Projeto.
+```
 
-### Responsável(eis)
+<span style="color:blue">
+  Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software
+</span>
 
-<span style="color:blue">Analista de software</span>
+### Responsável(eis):
 
-### Quando
+<span style="color:blue">
+  Analista de software
+</span>
 
-<span style="color:blue">Software aprovado para testes, plano de teste definido</span>
+### Quando:
 
-### Como
+<span style="color:blue">
+  Software aprovado para testes, plano de teste definido
+</span>
 
-<span style="color:blue">como é a execução da atividade?</span>
+### Como:
 
-### Prazo
+<span style="color:blue">
+  como é a execução da atividade?
+</span>
 
-<span style="color:blue">qual o prazo para execução?</span>
+### Prazo:
 
-### Entradas
+<span style="color:blue">
+  qual o prazo para execução?
+</span>
 
-<span style="color:blue">quais são as entradas que subsidiam a execução?</span>
+### Entradas:
 
-### Saídas
+<span style="color:blue">
+  quais são as entradas que subsidiam a execução?
+</span>
 
-<span style="color:blue">quais são as saídas geradas pela execução?</span>
+### Saídas:
+
+<span style="color:blue">
+  quais são as saídas geradas pela execução?
+</span>
 
 ### Fluxo:
 
-<span style="color:blue">qual a próxima atividade a ser executada na sequencia?</span>
+<span style="color:blue">
+  qual a próxima atividade a ser executada na sequencia?
+</span>
 
 ## Atividade - Projetar Estratégia de Testes
 
-<span style="color:blue">A estratégia de teste é um passo crítico na criação de um plano de teste. Um documento de estratégia de teste, é um documento de alto nível, geralmente desenvolvido pelo Test Manager. Este documento define:
+<span style="color:blue">
+A estratégia de teste é um passo crítico na criação de um plano de teste. Um documento de estratégia de teste, é um documento de alto nível, geralmente desenvolvido pelo Arquiteto de Testes. Este documento define:
 
-Os objetivos de teste do projeto e os meios para alcançá-los Determina o esforço e os custos do teste</span>
+Os objetivos de teste do projeto e os meios para alcançá-los Determina o esforço e os custos do teste.
 
-### Responsável(eis)
+</span>
 
-<span style="color:blue">Test Manager.</span>
+### Responsável(eis):
 
-### Como
+<span style="color:blue">
+  	Coordenador de Testes, Arquiteto de Testes
+</span>
 
-<span style="color:blue">Definir o escopo do teste
+### Como:
 
-Antes do início de qualquer atividade de teste, o escopo do teste deve ser conhecido. Você deve pensar muito sobre isso.
+#### Definir o escopo do teste
+
+<span style="color:blue">
+
+O escopo do teste deve ser conhecido para que seja realizado o teste engolando do o escopo.
 
 Os componentes do sistema a serem testados (hardware, software, middleware, etc.) são definidos como "no escopo".
 
-Os componentes do sistema que não serão testados também precisam ser claramente definidos como "fora do escopo". Definir o escopo do seu projeto de teste é muito importante para todas as partes interessadas. Um escopo preciso ajuda você
+Os componentes do sistema que não serão testados também precisam ser claramente definidos como "fora do escopo". Definir o escopo do seu projeto de teste é muito importante para todas as partes interessadas. Dê a todos uma confiança e informações precisas dos testes que você está fazendo todos os membros do projeto terão uma compreensão clara sobre o que é testado e o que não é.
 
-Dê a todos uma confiança e informações precisas dos testes que você está fazendo
+Como vamos determina o escopo do seu projeto?
 
-Todos os membros do projeto terão uma compreensão clara sobre o que é testado e o que não é
+Para determinar o escopo, você precisará:
 
-Como você determina o escopo do seu projeto?
+  - Exigência precisa do cliente
+  - Orçamento do projeto
+  - Especificação do produto</span>
 
-Para determinar o escopo, você precisa:
+#### Identifique o tipo de teste
 
-Exigência precisa do cliente
-
-Orçamento do projeto
-
-Especificação do produto
-
-Habilidades e talento da sua equipe de teste</span>
-<span style="color:blue">Identifique o tipo de teste
+<span style="color:blue">
 
 Um tipo de teste é um procedimento de teste padrão que fornece um resultado de teste esperado.
 
-Cada tipo de teste é formulado para identificar um tipo específico de problemas em um produto. Porém, todos os tipos de testes visam atingir um objetivo comum: "Detecção antecipada de todos os defeitos antes de liberar o produto para o cliente"</span>
+Cada tipo de teste é formulado para identificar um tipo específico de problemas em um produto. Porém, todos os tipos de testes visam atingir um objetivo comum: "Detecção antecipada de todos os defeitos antes de liberar o produto para o cliente"
 
-<span style="color:blue">Criar Logística de Teste
+Neste momento deve-se definir quais os tipo de testes serão realizados:
 
-Em Test Logistics, o Test Manager deve responder às seguintes perguntas:
+  - Teste de Aceitação
+  - Teste de Sistema
+  - Teste de Integração
+  - Teste de Unidade
 
-Quem vai testar?
+</span>
 
-Quando o teste ocorrerá?
+#### Criar Logística de Teste
 
-Quem vai testar?
-Você pode não saber o nome exatos do testador, mas o tipo de testador pode ser definido. Para selecionar o membro certo para a tarefa especificada, você deve considerar se a habilidade dele está qualificada para a tarefa ou não, também estimar o orçamento do projeto. Selecionar um membro errado para a tarefa pode causar falha ou atraso no projeto. A pessoa com as seguintes habilidades é a mais ideal para realizar testes de software:
+<span style="color:blue">
 
-Capacidade de entender o ponto de vista dos clientes
+Nesta etapa o Coordenador de Teste deve responder às seguintes perguntas: Quem vai testar? Quando o teste ocorrerá? Quem vai testar?
 
-Forte desejo de qualidade
+Inicie selecionando o membro certo para a tarefa especificada, você deve considerar se a habilidade dele está qualificada para a tarefa ou não, também estimar o orçamento do projeto. Selecionar um membro errado para a tarefa pode causar falha ou atraso no projeto. A pessoa com as seguintes habilidades é a mais ideal para realizar testes de software:
 
-Atenção aos detalhes
+  - Capacidade de entender o ponto de vista dos clientes
+  - Forte desejo de qualidade
+  - Atenção aos detalhes
+</span>
 
-Boa cooperação Em seu projeto, o membro que assumirá a execução do teste será o testador. Com base no orçamento do projeto, você pode escolher membro de origem ou terceirizar como testador.</span>
+#### Definir critérios de teste
 
-<span style="color:blue">Definir critérios de teste
-Critérios de teste é um padrão ou regra na qual um procedimento de teste ou julgamento de teste pode ser baseado. Existem 2 tipos de critérios de teste da seguinte forma
+<span style="color:blue">
+Deve se definir alguns critérios de testes para se obter agilidade no projeto, existem 2 tipos de critérios de teste que podem ser utilizados são eles:
 
 Critérios de Suspensão
 
@@ -170,7 +217,7 @@ Especifica os critérios que indicam uma conclusão bem-sucedida de uma fase de 
 
 ### Responsável(eis)
 
-<span style="color:blue">Test Manager - Com base na estimativa, o Test Manager sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
+<span style="color:blue">Coordenador de Testes - Com base na estimativa, o Tester sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
 
 ### Como
 
@@ -180,9 +227,9 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ### Entradas
 
-<span style="color:blue">Para criar o cronograma do projeto, o Test Manager precisa de vários tipos de entrada, conforme abaixo:</span>
+<span style="color:blue">Para criar o cronograma do projeto, o Coordenador de Testes precisa de vários tipos de entrada, conforme abaixo:</span>
 <span style="color:blue">Prazo para funcionários e projetos: os dias úteis, o prazo final do projeto, a disponibilidade de recursos são os fatores que afetaram o cronograma</span>
-<span style="color:blue">Estimativa de projeto: Com base na estimativa, o Test Manager sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
+<span style="color:blue">Estimativa de projeto: Com base na estimativa, o Coordenador de Testes sabe quanto tempo leva para concluir o projeto. Então ele pode fazer o cronograma do projeto apropriado.</span>
 
 ### Fluxo:
 
@@ -192,18 +239,18 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 <span style="color:blue">Nesta atividade deve se registrar o plano de teste com base nas estimativas e estrátegias definidas.</span>
 
-### Responsável(eis)
+### Responsável(eis):
 
-<span style="color:blue">Test Manager</span>
+<span style="color:blue">Lider de Teste, Arquiteto de Teste</span>
 
-### Como
+### Como:
 
 <span style="color:blue">As estimativas finais para o teste devem ser calculadas com base na estratégia de teste projetada no Teste de Projeto Atividade de estratégia e a equipe e agendamento acordados na Determinação de Pessoal e Programação atividade.</span>
 <span style="color:blue">A Estratégia de Teste identificada na atividade Criar Estratégia de Teste, o perfil de pessoal e cronograma acordado na atividade Determinar Pessoal e Agendamento, e as estimativas finais calculadas no tarefa anterior deve ser incorporada no plano de teste.</span>
 
-### Entradas
+### Entradas:
 
-<span style="color:blue">Para registrar o teste, o Test Manager precisa da entrada, conforme abaixo:</span>
+<span style="color:blue">Para registrar o teste, o Lider de Teste precisa da entrada, conforme abaixo:</span>
 <span style="color:blue">Documentações anteriores para analise, para registrar o plano.</span>
 
 ### Fluxo:
@@ -214,26 +261,29 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 <span style="color:blue">Nesta etapa devemos conectar as partes interessadas para alhinhar opniões sobre o plano de teste para avalisar o desenvolviemento do plano.</span>
 
-### Responsável(eis)
+### Responsável(eis):
 
-<span style="color:blue">Test Manager e Partes Interessadas</span>
+<span style="color:blue">Coordenador de Testes</span>
 
-### Como
+### Como:
 
-<span style="color:blue">As opiniões das partes interessadas sobre o plano de teste devem ser coletadas.</span>
-<span style="color:blue">Os conflitos entre o plano de teste e as opiniões das partes interessadas devem ser resolvidos.</span>
-<span style="color:blue">O plano de teste deve ser atualizado para levar em consideração o feedback das partes interessadas.</span>
-<span style="color:blue">A aprovação do plano de teste deve ser obtida das partes interessadas.</span>
+<span style="color:blue">
+As opiniões das partes interessadas sobre o plano de teste devem ser coletadas.</br>
+Os conflitos entre o plano de teste e as opiniões das partes interessadas devem ser resolvidos.</br>
+O plano de teste deve ser atualizado para levar em consideração o feedback das partes interessadas.</br>
+A aprovação do plano de teste deve ser obtida das partes interessadas.
+</span>
 
-### Entradas
+### Entradas:
 
-<span style="color:blue">Para criar o cronograma do projeto, o Test Manager precisa de vários tipos de entrada, conforme abaixo:</span>
-<span style="color:blue">Isso pode ser alcançado por meio de workshops, entrevistas ou outros meios adequados.</span>
+<span style="color:blue">
+  Para criar o cronograma do projeto, o Coordenador de Testes precisa de vários tipos de entrada, conforme abaixo: </br>
+  Isso pode ser alcançado por meio de workshops, entrevistas ou outros meios adequados.
+  </span>
 
 ### Fluxo:
 
 <span style="color:blue">a proxima atividade e: Projetar os Casos de Teste</span>
-
 
 # Projetar os Casos de Teste
 
@@ -241,7 +291,7 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 ## Atividade 1
 
-### Responsável
+### Responsável(eis):
 
 ### Quando:
 
@@ -259,9 +309,9 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 <span style="color:blue">Analise do plano de testes e projeto de testes pelo analista, definindo os requisitos a serem testados e processo de teste a ser usado pelos testadores</span>
 
-## Identificar Conjunto de Funcionalidades
+## Atividade - Identificar Conjunto de Funcionalidades
 
-### Responsável
+### Responsável(eis):
 <span style="color:blue">Analista de software</span>
 
 ### Quando:
@@ -278,13 +328,13 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 <span style="color:blue">Derivar condições de teste</span>
 
-## Derivar condições de teste
+## Atividade - Derivar condições de teste
 
-### Responsável
+### Responsável(eis):
 <span style="color:blue">Analista de software</span>
 ### Quando:
 <span style="color:blue">Requisitos a serem testados definidos</span>
-### como
+### Como:
 <span style="color:blue">Definir Condições de teste para cada requisito a ser testado, atraves de particionamento por equivalencia e analises de valor limite</span>
 ### Prazo:
 <span style="color:blue">algumas horas</span>
@@ -295,9 +345,9 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 ### Fluxo:
 <span style="color:blue">Derivar itens de cobertura de teste</span>
 
-## Derivar itens de cobertura de teste
+## Atividade - Derivar itens de cobertura de teste
 
-### Responsável
+### Responsável(eis):
 <span style="color:blue">Analista de software</span>
 ### Quando:
 <span style="color:blue">grafico de causa e efeito construido, plano de testes definido e condições a serem testadas definidas</span>
@@ -314,9 +364,9 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 ### Fluxo:
 <span style="color:blue">Derivar Casos de Teste</span>
 
-## Derivar Casos de Teste
+## Atividade - Derivar Casos de Teste
 
-### Responsável
+### Responsável(eis):
 <span style="color:blue">Analista de software</span>
 ### Quando:
 <span style="color:blue">Funções do programa definidas pra teste e isoladas, preparadas para teste. Grafico de causa e efeitos esperados definidos</span>
@@ -334,36 +384,223 @@ e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para po
 
 <span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
+![image](imagens/Executar.png)
 
-## Atividade 1
+## Atividade - Preparar Ambiente de Teste
 
-### Responsável
+<span style="color:blue">
+  Um ambiente de teste é preparado, simulando o ambiente de implanatação do software, o que garante uma maior precisão na execução dos testes. </br>
+  O ambiente de teste está sujeito à alterações baseadas nas necessidades ou resultados de testes. 
+</span>
+
+### Responsável(eis):
+
+<span style="color:blue">
+  Gerente de Configuração </br>
+  Tester
+</span>
 
 ### Quando:
 
-### como
+<span style="color:blue">
+  Antes de realizar os testes.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  O ambiente de teste deve ser preparado de acordo com as Configurações de Ambiente de Teste resultadas da atividade 'Derivar Condições de Teste'.
+</span>
 
 ### Prazo:
 
+<span style="color:blue">
+  1 dia.
+</span>
+  
 ### Entradas:
+
+<span style="color:blue">
+  Plano de Teste </br>
+  Condições de Teste </br>
+  Estados de Teste  
+</span>
 
 ### Saídas:
 
+<span style="color:blue">
+  Aprovação para Execução de Testes.
+</span>
+
 ### Fluxo:
 
-<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
+<span style="color:blue">
+  Executar Testes </br>
+  Registrar Execução de Teste.
+</span>
 
-# Entregar
-<span style="color:blue">Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+## Atividade - Executar Testes
 
+<span style="color:blue">
+  Os testes são executados de acordo com o planejado e seus resultados são registrados.
+</span>
 
-## Atividade 1
+### Responsável(eis):
 
-### Responsável
+<span style="color:blue">
+  Tester
+</span>
 
 ### Quando:
 
-### como
+<span style="color:blue">
+  
+  - Após preparação do Ambiente de Teste. </br>
+  - Após o projeto de testes do componente a ser testado for concluido.
+
+</span>
+
+### Como:
+
+<span style="color:blue">
+  Cada caso de teste deve ser executado de acordo com o especificado na fase de projeto de teste.   
+</span>
+
+### Prazo:
+
+<span style="color:blue">
+  Não Definido.
+</span>
+  
+### Entradas:
+
+<span style="color:blue">
+Aprovação para Execução de Teste. </br>
+Conjunto de Testes. 
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+Resultados Atuais de Testes. 
+</span>
+
+### Fluxo:
+
+<span style="color:blue">
+  Comparar Resultados de Testes. </br>
+  Registrar Execução de Testes.
+</span>
+
+## Atividade - Comparar Resultados de Testes
+
+Os resultados dos testes são comparados com as saidas esperadas, para verificar se o software está funcionando corretamente
+
+### Responsável(eis):
+
+<span style="color:blue">
+Tester 
+</span>
+
+### Quando:
+
+<span style="color:blue">
+Imediatamente após as execução dos testes. 
+</span>
+
+### Como:
+
+<span style="color:blue">
+  Os resultados de teste obtidos durante a fase de execução devem ser comparados com os resultados esperados do sistema formulados durante a fase de projeto, registrando qualquer divergência encontrada.
+</span>
+
+### Prazo:
+
+<span style="color:blue">
+Não Definido
+</span>
+
+### Entradas:
+
+<span style="color:blue">
+Resultados Atuais de Teste </br>
+Resultados Esperados de Teste
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+Resultados de Teste. </br>
+Registro de Não Conformidades.
+</span>
+
+### Fluxo:
+
+<span style="color:blue">
+  Próxima Atividade: Entrega
+</span>
+
+## Atividade - Registrar Execução de Teste
+
+<span style="color:blue">
+  A execução de testes é registrada.
+</span>
+
+### Responsável(eis):
+
+<span style="color:blue">
+  Registro de Testes
+</span>
+
+### Quando:
+
+<span style="color:blue">
+  Durante o processo de execução de testes e comparação de resultados de teste.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  Atraves de um log de execução dos testes, e registros manuais, caso necessário.
+</span>
+
+### Prazo:
+
+<span style="color:blue">
+  Não Definido.
+</span>
+
+### Entradas:
+
+<span style="color:blue">
+  N/A
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+  Registro de Testes
+</span>
+
+### Fluxo:
+
+<span style="color:blue">
+  Entrega
+</span>
+
+# Entregar
+
+<span style="color:blue">
+  Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.
+</span>
+
+## Atividade 1
+
+### Responsável(eis):
+
+### Quando:
+
+### Como:
 
 ### Prazo:
 
