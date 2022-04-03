@@ -382,7 +382,10 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 
 # Executar
 
-<span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+<span style="color:blue">
+  O processo de execução de testes é responsável por efetuar os procedimentos de teste definidos na parte de Projeto. </br>
+  O processo de execução de testes pode requerir mais de uma iteração, podendo ser executado novamente após correções de problemas encontrados anteriormente.  
+</span>
 
 ![image](imagens/Executar.png)
 
