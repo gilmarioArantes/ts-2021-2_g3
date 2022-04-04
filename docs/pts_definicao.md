@@ -284,29 +284,9 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 
 # Projetar os Casos de Teste
 
-<span style="color:blue">Descrever a fase de Projetas os Casos de Teste, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+<span style="color:blue">Analise do plano de testes e projeto de testes pelo analista, definindo os requisitos a serem testados e processo de teste a serem melhorados e casos de testes</span>
 
-## Atividade 1
-
-### Responsável(eis):
-
-### Quando:
-
-### como
-
-### Prazo:
-
-### Entradas:
-
-### Saídas:
-
-### Fluxo:
-
-<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
-
-<span style="color:blue">Analise do plano de testes e projeto de testes pelo analista, definindo os requisitos a serem testados e processo de teste a ser usado pelos testadores</span>
-
-## Atividade - Identificar Conjunto de Funcionalidades
+## Identificar Conjunto de Funcionalidades
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
@@ -320,12 +300,11 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Entradas:
 <span style="color:blue">Plano de testes, documentação de requisitos</span>
 ### Saídas:
-
+<span style="color:blue">Conjunto de funcionalidades identificadas</span>
 ### Fluxo:
-
 <span style="color:blue">Derivar condições de teste</span>
 
-## Atividade - Derivar condições de teste
+## Derivar condições de teste
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
@@ -342,7 +321,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Fluxo:
 <span style="color:blue">Derivar itens de cobertura de teste</span>
 
-## Atividade - Derivar itens de cobertura de teste
+## Derivar itens de cobertura de teste
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
@@ -361,14 +340,14 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Fluxo:
 <span style="color:blue">Derivar Casos de Teste</span>
 
-## Atividade - Derivar Casos de Teste
+## Derivar Casos de Teste
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
 ### Quando:
 <span style="color:blue">Funções do programa definidas pra teste e isoladas, preparadas para teste. Grafico de causa e efeitos esperados definidos</span>
 ### como
-<span style="color:blue">Construção de planilhas de caso de teste para cada documento e requisito funcional a ser testado do programa, preparando as planilhas para  teste de todas as partições de equivalencia e registrando seus possiveis resultados esperados do grafico de causa e efeito</span>
+<span style="color:blue">Melhoramento do documento de planos de teste e casos de teste após analisar </span>
 ### Prazo:
 <span style="color:blue">1 dia</span>
 ### Entradas:
@@ -376,6 +355,44 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Saídas:
 <span style="color:blue">Casos de testes especificados e prontos para execução</span>
 ### Fluxo:
+<span style="color:blue">Montar conjunto de testes</span>
+
+## Montar conjunto de testes
+
+### Responsável(eis):
+<span style="color:blue">Analista de software</span>
+
+### Quando:
+<span style="color:blue">Casos de testes definidos</span>
+### Como:
+<span style="color:blue">O analista observa os casos de testes e separa as tabelas conforme o plano de teste, dividindo quem e quais serão as baterias de testes</span>
+### Prazo:
+<span style="color:blue">Algumas horas</span>
+### Entradas:
+<span style="color:blue">Plano de testes, casos de teste</span>
+### Saídas:
+<span style="color:blue">Conjunto de tabelas de casos de teste, com seus responsáveis</span>
+### Fluxo:
+<span style="color:blue">Derivar Processo de teste</span>
+
+## Derivar processos de teste:
+
+### Responsável(eis):
+<span style="color:blue">Analista de software</span>
+
+### Quando:
+<span style="color:blue">Casos de testes definidos</span>
+### Como:
+<span style="color:blue">O analista acrescenta ao plano de testes os processos especificados de testes, as baterias e responsabilidades distribuidas para cada sessão de testes</span>
+### Prazo:
+<span style="color:blue">Algumas horas</span>
+### Entradas:
+<span style="color:blue">Plano de testes, casos de teste</span>
+### Saídas:
+<span style="color:blue">Plano de teste com seus responsaveis e casos de teste prontos para execução</span>
+### Fluxo:
+<span style="color:blue">Execução</span>
+
 
 # Executar
 
