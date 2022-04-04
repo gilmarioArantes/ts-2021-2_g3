@@ -636,11 +636,57 @@ Resultados de Teste. </br>
 ### Saídas:
 
 <span style="color:blue">
+  Informações sobre problemas encontrados.
 </span>
 
 ### Fluxo:
 
-<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
+<span style="color:blue">
+  Próxima Atividade: Criar/Atualizar Registro de Incidentes
+</span>
+
+
+## Atividade - Criar/Atualizar Registro de Incidentes
+
+### Responsável(eis):
+
+<span style="color:blue">
+  
+</span>
+
+### Quando:
+
+<span style="color:blue">
+  Em conjunto com a análise de resultados de teste.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  
+</span>
+
+### Prazo:
+
+<span style="color:blue">
+
+</span>
+
+### Entradas:
+
+<span style="color:blue">
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+</span>
+
+### Fluxo:
+
+<span style="color:blue">
+</span>
+
 
 # Considerações Finais
 <span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.</span>
