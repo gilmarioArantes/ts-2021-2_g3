@@ -76,9 +76,6 @@
 <span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
 ## Atividade - Definir conjunto de funcionalidades
-```diff
-- Existem duas dessa atividade, Esta e um 'Identificar Conjunto de Funcionalidades', e de acordo com a norma ela pertence a Projeto.
-```
 
 <span style="color:blue">
   Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software
@@ -382,7 +379,10 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 
 # Executar
 
-<span style="color:blue">Descrever a Executar, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
+<span style="color:blue">
+  O processo de execução de testes é responsável por efetuar os procedimentos de teste definidos na parte de Projeto. </br>
+  O processo de execução de testes pode requerir mais de uma iteração, podendo ser executado novamente após correções de problemas encontrados anteriormente.  
+</span>
 
 ![image](imagens/Executar.png)
 
@@ -469,7 +469,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Prazo:
 
 <span style="color:blue">
-  Não Definido.
+  Indefinido.
 </span>
   
 ### Entradas:
@@ -517,7 +517,7 @@ Imediatamente após as execução dos testes.
 ### Prazo:
 
 <span style="color:blue">
-Não Definido
+  Indefinido
 </span>
 
 ### Entradas:
@@ -531,13 +531,12 @@ Resultados Esperados de Teste
 
 <span style="color:blue">
 Resultados de Teste. </br>
-Registro de Não Conformidades.
 </span>
 
 ### Fluxo:
 
 <span style="color:blue">
-  Próxima Atividade: Entrega
+  Próxima Atividade: Analizar Resultados de Teste
 </span>
 
 ## Atividade - Registrar Execução de Teste
@@ -549,7 +548,7 @@ Registro de Não Conformidades.
 ### Responsável(eis):
 
 <span style="color:blue">
-  Registro de Testes
+  Tester
 </span>
 
 ### Quando:
@@ -567,7 +566,7 @@ Registro de Não Conformidades.
 ### Prazo:
 
 <span style="color:blue">
-  Não Definido.
+  Indefinido.
 </span>
 
 ### Entradas:
@@ -585,32 +584,116 @@ Registro de Não Conformidades.
 ### Fluxo:
 
 <span style="color:blue">
-  Entrega
+  Próxima Atividade: Analizar Resultados de Teste
 </span>
 
 # Entregar
 
 <span style="color:blue">
-  Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.
+  O processo de entrega é responsável por relatar os resultados dos testes aos stakeholders, informando-os de possiveis ações futuras necessárias. 
 </span>
 
-## Atividade 1
+## Atividade - Analizar Resultados de Teste
 
 ### Responsável(eis):
 
+<span style="color:blue">
+  Analista de Software
+</span>
+
 ### Quando:
+
+<span style="color:blue">
+  Imediatamente após o final da fase de Execução.
+</span>
 
 ### Como:
 
+<span style="color:blue">
+  
+  
+  - Em caso da ocorrencia de um problema não registrado anteriormente, os resultados de teste deverão ser análisados e deve ser determinado se o problema pode ser resolvido diretamente, se precisa ser reportado, ou se não precisa ser tomado ações corretivas. </br>
+  - Em caso da recorrencia de um problema registrado anteriormente, os resultados de teste devem ser análisados e o registro do problema atualizado.
+</span>
+
 ### Prazo:
+
+<span style="color:blue">
+  Indefinido
+</span>
 
 ### Entradas:
 
+<span style="color:blue">
+  Conjunto de Testes </br>
+  Resultados de Testes </br>
+  Registro de Testes
+</span>
+
 ### Saídas:
+
+<span style="color:blue">
+  N/A
+</span>
 
 ### Fluxo:
 
-<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
+<span style="color:blue">
+  Próxima Atividade: Criar/Atualizar Registro de Incidentes
+</span>
+
+
+## Atividade - Criar/Atualizar Registro de Incidentes
+
+### Responsável(eis):
+
+<span style="color:blue">
+  Analista de Software
+</span>
+
+### Quando:
+
+<span style="color:blue">
+  Em conjunto com a análise de resultados de teste.
+</span>
+
+### Como:
+
+<span style="color:blue">
+  Problemas encontrados durante a execução de testes devem ser registrados ou atualizados, identificando seus status de novo ou recorrente. 
+</span>
+
+### Prazo:
+
+<span style="color:blue">
+  Indefinido
+</span>
+
+### Entradas:
+
+<span style="color:blue">
+  N/A
+</span>
+
+### Saídas:
+
+<span style="color:blue">
+  Registro de Incidentes
+</span>
+
+### Fluxo:
+
+<span style="color:blue">
+  Finalizar etapa de testes?
+  
+  - Sim </br>
+  Próxima Atividade: N/A
+  
+  - Não </br>
+  Próxima Atividade: Definir Conjunto de Funcionalidades
+   
+</span>
+
 
 # Considerações Finais
 <span style="color:blue">Descrever as considerações finais a respeito deste processo de teste de software.</span>
