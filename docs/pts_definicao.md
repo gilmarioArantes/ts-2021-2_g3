@@ -551,7 +551,7 @@ Resultados de Teste. </br>
 ### Responsável(eis):
 
 <span style="color:blue">
-  Registro de Testes
+  Tester
 </span>
 
 ### Quando:
@@ -601,7 +601,7 @@ Resultados de Teste. </br>
 ### Responsável(eis):
 
 <span style="color:blue">
-  
+  Analista de Software
 </span>
 
 ### Quando:
@@ -636,7 +636,6 @@ Resultados de Teste. </br>
 ### Saídas:
 
 <span style="color:blue">
-  Informações sobre problemas encontrados.
 </span>
 
 ### Fluxo:
@@ -651,7 +650,7 @@ Resultados de Teste. </br>
 ### Responsável(eis):
 
 <span style="color:blue">
-  
+  Analista de Software
 </span>
 
 ### Quando:
@@ -663,13 +662,13 @@ Resultados de Teste. </br>
 ### Como:
 
 <span style="color:blue">
-  
+  Problemas encontrados durante a execução de testes devem ser registrados ou atualizados, identificando seus status de novo ou recorrente. 
 </span>
 
 ### Prazo:
 
 <span style="color:blue">
-
+  Indefinido
 </span>
 
 ### Entradas:
@@ -680,6 +679,7 @@ Resultados de Teste. </br>
 ### Saídas:
 
 <span style="color:blue">
+  Registro de Incidentes
 </span>
 
 ### Fluxo:
