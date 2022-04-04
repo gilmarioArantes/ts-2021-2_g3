@@ -289,7 +289,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 
 <span style="color:blue">Analise do plano de testes e projeto de testes pelo analista, definindo os requisitos a serem testados e processo de teste a ser usado pelos testadores</span>
 
-## Atividade - Identificar Conjunto de Funcionalidades
+## Identificar Conjunto de Funcionalidades
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
@@ -303,12 +303,11 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Entradas:
 <span style="color:blue">Plano de testes, documentação de requisitos</span>
 ### Saídas:
-
+<span style="color:blue">Conjunto de funcionalidades identificadas</span>
 ### Fluxo:
-
 <span style="color:blue">Derivar condições de teste</span>
 
-## Atividade - Derivar condições de teste
+## Derivar condições de teste
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
@@ -325,7 +324,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Fluxo:
 <span style="color:blue">Derivar itens de cobertura de teste</span>
 
-## Atividade - Derivar itens de cobertura de teste
+## Derivar itens de cobertura de teste
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
@@ -344,7 +343,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Fluxo:
 <span style="color:blue">Derivar Casos de Teste</span>
 
-## Atividade - Derivar Casos de Teste
+## Derivar Casos de Teste
 
 ### Responsável(eis):
 <span style="color:blue">Analista de software</span>
