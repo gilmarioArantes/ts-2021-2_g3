@@ -534,13 +534,12 @@ Resultados Esperados de Teste
 
 <span style="color:blue">
 Resultados de Teste. </br>
-Registro de Não Conformidades.
 </span>
 
 ### Fluxo:
 
 <span style="color:blue">
-  Próxima Atividade: Entrega
+  Próxima Atividade: Analizar Resultados de Teste
 </span>
 
 ## Atividade - Registrar Execução de Teste
@@ -588,28 +587,56 @@ Registro de Não Conformidades.
 ### Fluxo:
 
 <span style="color:blue">
-  Entrega
+  Próxima Atividade: Analizar Resultados de Teste
 </span>
 
 # Entregar
 
 <span style="color:blue">
-  Descrever a Entregas, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.
+  O processo de entrega é responsável por relatar os resultados dos testes aos stakeholders, informando-os de possiveis ações futuras necessárias. 
 </span>
 
-## Atividade 1
+## Atividade - Analizar Resultados de Teste
 
 ### Responsável(eis):
 
+<span style="color:blue">
+  
+</span>
+
 ### Quando:
+
+<span style="color:blue">
+  Imediatamente após o final da fase de Execução.
+</span>
 
 ### Como:
 
+<span style="color:blue">
+  
+  
+  - Em caso da ocorrencia de um problema não registrado anteriormente, os resultados de teste deverão ser análisados e deve ser determinado se o problema pode ser resolvido diretamente, se precisa ser reportado, ou se não precisa ser tomado ações corretivas. </br>
+  - Em caso da recorrencia de um problema registrado anteriormente, os resultados de teste devem ser análisados e o registro do problema atualizado.
+</span>
+
 ### Prazo:
+
+<span style="color:blue">
+  Indefinido
+</span>
 
 ### Entradas:
 
+<span style="color:blue">
+  Conjunto de Testes </br>
+  Resultados de Testes </br>
+  Registro de Testes
+</span>
+
 ### Saídas:
+
+<span style="color:blue">
+</span>
 
 ### Fluxo:
 
