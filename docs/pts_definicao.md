@@ -287,26 +287,6 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 
 # Projetar os Casos de Teste
 
-<span style="color:blue">Descrever a fase de Projetas os Casos de Teste, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
-
-## Atividade 1
-
-### Responsável(eis):
-
-### Quando:
-
-### como
-
-### Prazo:
-
-### Entradas:
-
-### Saídas:
-
-### Fluxo:
-
-<span style="color:blue">Identificar e descrever outras atividades componentes desta fase do processo.</span>
-
 <span style="color:blue">Analise do plano de testes e projeto de testes pelo analista, definindo os requisitos a serem testados e processo de teste a ser usado pelos testadores</span>
 
 ## Atividade - Identificar Conjunto de Funcionalidades
