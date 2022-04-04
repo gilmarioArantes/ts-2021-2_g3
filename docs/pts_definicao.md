@@ -494,8 +494,10 @@ Resultados Atuais de Testes.
 
 ## Atividade - Comparar Resultados de Testes
 
+<span style="color:blue">
 Os resultados dos testes são comparados com as saidas esperadas, para verificar se o software está funcionando corretamente
-
+</span>
+  
 ### Responsável(eis):
 
 <span style="color:blue">
@@ -593,7 +595,13 @@ Resultados de Teste. </br>
   O processo de entrega é responsável por relatar os resultados dos testes aos stakeholders, informando-os de possiveis ações futuras necessárias. 
 </span>
 
+![image](imagens/Entregar.png)
+
 ## Atividade - Analizar Resultados de Teste
+
+<span style="color:blue">
+  Os resultados de teste são analisados.
+</span>
 
 ### Responsável(eis):
 
@@ -645,6 +653,10 @@ Resultados de Teste. </br>
 
 ## Atividade - Criar/Atualizar Registro de Incidentes
 
+<span style="color:blue">
+  Incidentes encontrados durante a execução de teste são registrados.
+</span>
+
 ### Responsável(eis):
 
 <span style="color:blue">
@@ -654,7 +666,7 @@ Resultados de Teste. </br>
 ### Quando:
 
 <span style="color:blue">
-  Em conjunto com a análise de resultados de teste.
+  Imediatamente após a analise dos resultados de teste.
 </span>
 
 ### Como:
