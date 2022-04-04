@@ -76,9 +76,6 @@
 <span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
 ## Atividade - Definir conjunto de funcionalidades
-```diff
-- Existem duas dessa atividade, Esta e um 'Identificar Conjunto de Funcionalidades', e de acordo com a norma ela pertence a Projeto.
-```
 
 <span style="color:blue">
   Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software
@@ -472,7 +469,7 @@ A aprovação do plano de teste deve ser obtida das partes interessadas.
 ### Prazo:
 
 <span style="color:blue">
-  Não Definido.
+  Indefinido.
 </span>
   
 ### Entradas:
@@ -520,7 +517,7 @@ Imediatamente após as execução dos testes.
 ### Prazo:
 
 <span style="color:blue">
-Não Definido
+  Indefinido
 </span>
 
 ### Entradas:
@@ -569,7 +566,7 @@ Resultados de Teste. </br>
 ### Prazo:
 
 <span style="color:blue">
-  Não Definido.
+  Indefinido.
 </span>
 
 ### Entradas:
@@ -636,6 +633,7 @@ Resultados de Teste. </br>
 ### Saídas:
 
 <span style="color:blue">
+  N/A
 </span>
 
 ### Fluxo:
@@ -674,6 +672,7 @@ Resultados de Teste. </br>
 ### Entradas:
 
 <span style="color:blue">
+  N/A
 </span>
 
 ### Saídas:
@@ -685,6 +684,14 @@ Resultados de Teste. </br>
 ### Fluxo:
 
 <span style="color:blue">
+  Finalizar etapa de testes?
+  
+  - Sim </br>
+  Próxima Atividade: N/A
+  
+  - Não </br>
+  Próxima Atividade: Definir Conjunto de Funcionalidades
+   
 </span>
 
 
