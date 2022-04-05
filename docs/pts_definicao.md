@@ -92,11 +92,15 @@
 
 ### Como:
 <span style="color:blue">
-  Estudar as modificações solicitadas pelo Cliente (novos requisitos);
-  Estudar as modificações de arquiteturas dos aplicativos;
-  Estudar as lições aprendidas dos Projetos Anteriores;
-  Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente;
-  Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo;
+
+  Avaliar os novos requisitos propostos pelo cliente, buscando associação com os requisitos já abordados. Validar arquitetura e ambientes com relação aos custos esperado pelo cliente.
+
+  - Estudar as modificações solicitadas pelo Cliente (novos requisitos)
+  - Estudar as modificações de arquiteturas dos aplicativos
+  - Estudar as lições aprendidas dos Projetos Anteriores
+  - Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente
+  - Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo
+
 </span>
 
 ### Prazo:
@@ -106,7 +110,7 @@
 
 ### Entradas:
 <span style="color:blue">
-  Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, etc.
+  Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, novas arquiteturas, riscos envolvidos e impactos no processo.
 </span>
 
 ### Saídas:
@@ -123,36 +127,43 @@
 
 ### Responsável(eis):
 <span style="color:blue">
+
   - Líder de Testes
   - Arquiteto de Testes
+
 </span>
 
 ### Quando:
 <span style="color:blue">
+  Após a reavaliação do projeto.
 </span>
 
 ### Como:
 <span style="color:blue">
-  Identificar informações existentes do projeto e o software que deve ser testado.
-  Listar os requisitos de teste recomendados (nível alto).
-  Recomendar e descrever as estratégias de teste a serem empregadas.
-  Identificar os recursos requeridos e fornecer uma estimativa dos esforços de teste.
-  Listar os elementos de produto de trabalho das tarefas de teste.
+
+  Esta etapa é reponsável pela definição de uma proposta de testes baseada nas expectativas do Cliente em relação à prazos, custos e qualidade esperada, possibilitando dimensionar a equipe e estabelecer um esforço de acordo com as necessidades apontadas pelo Cliente.
+
+  - Identificar informações existentes do projeto e o software que deve ser testado
+  - Listar os requisitos de teste recomendados (nível alto)
+  - Recomendar e descrever as estratégias de teste a serem empregadas
+  - Identificar os recursos requeridos e fornecer uma estimativa dos esforços de teste
+  - Listar os elementos de produto de trabalho das tarefas de teste
+
 </span>
 
 ### Prazo:
 <span style="color:blue">
-  A definir
+  Definir prazos estipulados com cliente e respeitando o tempo das atividades do Plano de Teste.
 </span>
 
 ### Entradas:
 <span style="color:blue">
-  A definir
+  Análise do escopo de novos requisitos do cliente, custos, análise de riscos, todas as informaçãoes sobre mudanças e incremento de funcionalidades.
 </span>
 
 ### Saídas:
 <span style="color:blue">
-  A definir
+  Plano de Teste elaborado, alinhado as expectativas do cliente e a realidade das atividades.
 </span>
 
 ### Fluxo:
@@ -163,22 +174,99 @@
 ## Atividade - Identificar e Analisar Riscos
 
 ### Responsável(eis):
+<span style="color:blue">
+
+  - Líder de Testes
+  - Arquiteto de Testes
+
+</span>
+
 ### Quando:
+<span style="color:blue">
+  Ao decorrer do planejamento dos testes.
+</span>
+
 ### Como:
+<span style="color:blue">
+
+Planejar um curso do projeto de avaliação de riscos. Estabelecer o escopo antes de começar o trabalho, atenção ao planejamento do projeto, acompanhe e avalie constantemente o progresso.
+
+  - Avaliar se o projeto exige a criação de casos de testes “progressivos”
+  - Avaliar se o projeto exige modificações em casos de testes “regressivos”
+  - Avaliar se o projeto exige adequações na automação dos testes
+  - Avaliar se o projeto exige adequação nas atuais ferramentas empregadas
+  - Avaliar se o projeto exige a aquisição/construção de novas ferramentas
+  - Avaliar se o projeto exige modificações na estruturação do ambiente
+
+</span>
+
 ### Prazo:
+<span style="color:blue">
+  Definir prazo de acordo com as demandas do escopo do projeto.
+</span>
+
 ### Entradas:
+<span style="color:blue">
+  Com o estudo do projeto e outras informações relevantes para fazer a devida avaliação.
+</span>
+
 ### Saídas:
+<span style="color:blue">
+  Resultado da análise, necessidade de criação de novos casos de testes, modificações de estrutura do ambiente, ferramentas e abordagens do cenário.
+</span>
+
 ### Fluxo:
+<span style="color:blue">
+  Identificar Abordagens de Mitigação de Riscos
+</span>
 
 ## Atividade - Identificar Abordagens de Mitigação de Riscos
 
 ### Responsável(eis):
+<span style="color:blue">
+
+  - Líder de Testes
+  - Arquiteto de Testes
+
+</span>
+
 ### Quando:
+<span style="color:blue">
+  Após a identificação dos riscos na etapa anterior.
+</span>
+
 ### Como:
+<span style="color:blue">
+
+Planejar técnicas para mitigar os riscos encontrados, definir as atividades de maior prioridade e estabelecer no escopo do projeto.
+
+  - Definir quais técnicas de testes serão utilizadas para cobrir os riscos
+  - Criar casos de testes especificamente voltados para a cobrir os riscos encontrados
+  - Priorizar a execução de todos os casos de testes associados à esses módulos
+  - Realizar uma análise mais aprofundada dos impactos na modificação desses dois módulos no ambiente de produção, levando em consideração o histórico de falhas
+  - Negociar o aumento do prazo para a entrega do projeto, visto que foram detectados pontos críticos nos módulos 3 e 4 (esse ponto pode estar diretamente relacionado ao anterior)
+
+</span>
+
 ### Prazo:
+<span style="color:blue">
+  Definir prazo de acordo com as demandas oriundas da análise e identificação de riscos.
+</span>
+
 ### Entradas:
+<span style="color:blue">
+  Resultado da análise e identificação de riscos, como o que precisa ser implementado e quais os novos requisitos de estrutura do ambiente.
+</span>
+
 ### Saídas:
+<span style="color:blue">
+  Abordagem das decisões que serão tomadas para atuar na mitigação dos riscos.
+</span>
+
 ### Fluxo:
+<span style="color:blue">
+  Projetar Estratégia de Testes
+</span>
 
 ## Atividade - Projetar Estratégia de Testes
 
@@ -267,7 +355,7 @@ Especifica os critérios que indicam uma conclusão bem-sucedida de uma fase de 
 
 ## Atividade - Determinar Equipe e Agendamento
 
-<span style="color:blue">Agora neste atividade deve ser incluir a estimativa do tempo de cada tarefa a ser realizada, bem como a identificação das funções e habilidade da equipe para realizar os testes descritos no planejamento identificado. Essa atividade pode exigir a identificação das necessidadas de recrutamento ou treinamento de pessoal.</span>
+<span style="color:blue">Agora neste atividade deve ser incluir a estimativa do tempo de cada tarefa a ser realizada, bem como a identificação das funções e habilidade da equipe para realizar os testes descritos no planejamento identificado. Essa atividade pode exigir a identificação das necessidades de recrutamento ou treinamento de pessoal.</span>
 
 ### Responsável(eis)
 
