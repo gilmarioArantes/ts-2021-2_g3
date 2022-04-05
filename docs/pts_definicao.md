@@ -77,59 +77,58 @@
 
 ## Atividade - Estudar Projeto
 
+### Responsável(eis):
+<span style="color:blue">
+  Coordenador de Testes
+</span>
+### Quando:
+
+### Como:
+<span style="color:blue">
+  Estudar as modificações solicitadas pelo Cliente (novos requisitos);
+  Estudar as modificações de arquiteturas dos aplicativos;
+  Estudar as lições aprendidas dos Projetos Anteriores;
+  Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente;
+  Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo;
+</span>
+### Prazo:
+  Prazo de 3-5 dias.
+### Entradas:
+  Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, etc.
+### Saídas:
+  As ponderações feitas após avaliar novamente as modificações, verificar expectativas de custos, opções do cliente e análise de impacto no projeto.
+### Fluxo:
+  Após o Estudo do Projeto, segue para o desenvolvimento do Plano de Teste.
+
 ## Atividade - Desenvolver Plano de Teste
+
+### Responsável(eis):
+### Quando:
+### Como:
+### Prazo:
+### Entradas:
+### Saídas:
+### Fluxo:
 
 ## Atividade - Identificar e Analisar Riscos
 
-## Atividade - Identificar Abordagens de Mitigação de Riscos
-
-## Atividade - Definir conjunto de funcionalidades
-
-<span style="color:blue">
-  Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software
-</span>
-
 ### Responsável(eis):
-
-<span style="color:blue">
-  Analista de software
-</span>
-
 ### Quando:
-
-<span style="color:blue">
-  Software aprovado para testes, plano de teste definido
-</span>
-
 ### Como:
-
-<span style="color:blue">
-  como é a execução da atividade?
-</span>
-
 ### Prazo:
-
-<span style="color:blue">
-  qual o prazo para execução?
-</span>
-
 ### Entradas:
-
-<span style="color:blue">
-  quais são as entradas que subsidiam a execução?
-</span>
-
 ### Saídas:
-
-<span style="color:blue">
-  quais são as saídas geradas pela execução?
-</span>
-
 ### Fluxo:
 
-<span style="color:blue">
-  qual a próxima atividade a ser executada na sequencia?
-</span>
+## Atividade - Identificar Abordagens de Mitigação de Riscos
+
+### Responsável(eis):
+### Quando:
+### Como:
+### Prazo:
+### Entradas:
+### Saídas:
+### Fluxo:
 
 ## Atividade - Projetar Estratégia de Testes
 
