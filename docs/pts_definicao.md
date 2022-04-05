@@ -84,6 +84,7 @@
 <span style="color:blue">
   Coordenador de Testes
 </span>
+
 ### Quando:
 
 ### Como:
@@ -94,14 +95,26 @@
   Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente;
   Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo;
 </span>
+
 ### Prazo:
+<span style="color:blue">
   Prazo de 3-5 dias.
+</span>
+
 ### Entradas:
+<span style="color:blue">
   Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, etc.
+</span>
+
 ### Saídas:
+<span style="color:blue">
   As ponderações feitas após avaliar novamente as modificações, verificar expectativas de custos, opções do cliente e análise de impacto no projeto.
+</span>
+
 ### Fluxo:
+<span style="color:blue">
   Após o Estudo do Projeto, segue para o desenvolvimento do Plano de Teste.
+</span>
 
 ## Atividade - Desenvolver Plano de Teste
 
