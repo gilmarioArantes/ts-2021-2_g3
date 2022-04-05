@@ -183,7 +183,7 @@
 
 ### Quando:
 <span style="color:blue">
-  A definir
+  Ao decorrer do planejamento dos testes.
 </span>
 
 ### Como:
@@ -202,17 +202,17 @@ Planejar um curso do projeto de avaliação de riscos. Estabelecer o escopo ante
 
 ### Prazo:
 <span style="color:blue">
-  A definir
+  Definir prazo de acordo com as demandas do escopo do projeto.
 </span>
 
 ### Entradas:
 <span style="color:blue">
-  A definir
+  Com o estudo do projeto e outras informações relevantes para fazer a devida avaliação.
 </span>
 
 ### Saídas:
 <span style="color:blue">
-  A definir
+  Resultado da análise, necessidade de criação de novos casos de testes, modificações de estrutura do ambiente, ferramentas e abordagens do cenário.
 </span>
 
 ### Fluxo:
@@ -232,11 +232,13 @@ Planejar um curso do projeto de avaliação de riscos. Estabelecer o escopo ante
 
 ### Quando:
 <span style="color:blue">
-  A definir
+  Após a identificação dos riscos na etapa anterior.
 </span>
 
 ### Como:
 <span style="color:blue">
+
+Planejar técnicas para mitigar os riscos encontrados, definir as atividades de maior prioridade e estabelecer no escopo do projeto.
 
   - Definir quais técnicas de testes serão utilizadas para cobrir os riscos
   - Criar casos de testes especificamente voltados para a cobrir os riscos encontrados
@@ -248,17 +250,17 @@ Planejar um curso do projeto de avaliação de riscos. Estabelecer o escopo ante
 
 ### Prazo:
 <span style="color:blue">
-  A definir
+  Definir prazo de acordo com as demandas oriundas da análise e identificação de riscos.
 </span>
 
 ### Entradas:
 <span style="color:blue">
-  A definir
+  Resultado da análise e identificação de riscos, como o que precisa ser implementado e quais os novos requisitos de estrutura do ambiente.
 </span>
 
 ### Saídas:
 <span style="color:blue">
-  A definir
+  Abordagem das decisões que serão tomadas para atuar na mitigação dos riscos.
 </span>
 
 ### Fluxo:
@@ -353,7 +355,7 @@ Especifica os critérios que indicam uma conclusão bem-sucedida de uma fase de 
 
 ## Atividade - Determinar Equipe e Agendamento
 
-<span style="color:blue">Agora neste atividade deve ser incluir a estimativa do tempo de cada tarefa a ser realizada, bem como a identificação das funções e habilidade da equipe para realizar os testes descritos no planejamento identificado. Essa atividade pode exigir a identificação das necessidadas de recrutamento ou treinamento de pessoal.</span>
+<span style="color:blue">Agora neste atividade deve ser incluir a estimativa do tempo de cada tarefa a ser realizada, bem como a identificação das funções e habilidade da equipe para realizar os testes descritos no planejamento identificado. Essa atividade pode exigir a identificação das necessidades de recrutamento ou treinamento de pessoal.</span>
 
 ### Responsável(eis)
 
