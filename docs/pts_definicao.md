@@ -53,75 +53,132 @@
 
 ||Coordenador de Testes|Líder de Testes|Arquiteto de Testes|
 |------|------|------|------|
-|Estudo do Projeto|Executa|Colabora|Colabora|
-|Avaliação de Impacto|-|Executa|Executa|
-|Análise Interna Esforço|-|Executa|Executa|
-|Análise Externa Esforço|-|Executa|Executa|
-|Definição de Cenários Possíveis|Executa|Colabora|Colabora|
-|Aprovação do Planejamento|Executa|Colabora|Colabora|
+|Estudar Projeto|Executa|Colabora|Colabora|
+|Desenvolver Plano de Teste|-|Executa|Executa|
+|Identificar e Analisar Riscos|-|Executa|Executa|
+|Identificar Abordagens de Mitigação de Riscos|-|Executa|Executa|
+|Projetar Estratégia de Testes|Executa|Colabora|Colabora|
+|Determinar Equipe e Agendamento|Executa|Colabora|Colabora|
+|Registrar Plano de Teste|Executa|Colabora|Colabora|
+|Aprovação do Plano de Teste|Executa|Colabora|Colabora|
+|Comunicar Plano de Teste e Disponibilizá-lo|-|Executa|Colabora|
 
 ## Ambiente de teste
 
-<span style="color:blue">Descrever o ambiente de testes, que envolve tanto software, quanto infraestrutura.</span>
+<span style="color:blue">
+  Descreva o hardware e suas configurações, quais softwares. Por exemplo, sistema operacional, browsers, servidores web, etc.
+</span>
 
 # Planejar
 
-<!--![Figura 2 - Fase de planejamento](./images/Processo_Teste_Software-Planejar1.0.png)-->
+<!--![Figura 2 - Fase de planejamento](./images/Teste_de_Software-1.0.png)-->
 <div align="center">
-  <img src="./imagens/Processo_Teste_Software-Planejar1.0.png">
+  <img src="./imagens/Teste_de_Software-1.0.png">
   <figcaption><br/>Figura 2 - Fase de planejamento</figcaption>
   </div>
 <br>
 
-<span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
-
-## Atividade - Definir conjunto de funcionalidades
-
-<span style="color:blue">
-  Analisar o plano de testes e definir a partir dos requisitos todas funcionalidades do software que serão testadas, admitindo todos as funções de uso do software em questão, fazer fluxo de controle do software
-</span>
+## Atividade - Estudar Projeto
 
 ### Responsável(eis):
-
 <span style="color:blue">
-  Analista de software
+  Coordenador de Testes
 </span>
 
 ### Quando:
-
 <span style="color:blue">
-  Software aprovado para testes, plano de teste definido
+ Início do planejamento.
 </span>
 
 ### Como:
-
 <span style="color:blue">
-  como é a execução da atividade?
+  Estudar as modificações solicitadas pelo Cliente (novos requisitos);
+  Estudar as modificações de arquiteturas dos aplicativos;
+  Estudar as lições aprendidas dos Projetos Anteriores;
+  Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente;
+  Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo;
 </span>
 
 ### Prazo:
-
 <span style="color:blue">
-  qual o prazo para execução?
+  Prazo de 3-5 dias.
 </span>
 
 ### Entradas:
-
 <span style="color:blue">
-  quais são as entradas que subsidiam a execução?
+  Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, etc.
 </span>
 
 ### Saídas:
-
 <span style="color:blue">
-  quais são as saídas geradas pela execução?
+  As ponderações feitas após avaliar novamente as modificações, verificar expectativas de custos, opções do cliente e análise de impacto no projeto.
 </span>
 
 ### Fluxo:
-
 <span style="color:blue">
-  qual a próxima atividade a ser executada na sequencia?
+  Após o Estudo do Projeto, segue para o desenvolvimento do Plano de Teste.
 </span>
+
+## Atividade - Desenvolver Plano de Teste
+
+### Responsável(eis):
+<span style="color:blue">
+  - Líder de Testes
+  - Arquiteto de Testes
+</span>
+
+### Quando:
+<span style="color:blue">
+</span>
+
+### Como:
+<span style="color:blue">
+  Identificar informações existentes do projeto e o software que deve ser testado.
+  Listar os requisitos de teste recomendados (nível alto).
+  Recomendar e descrever as estratégias de teste a serem empregadas.
+  Identificar os recursos requeridos e fornecer uma estimativa dos esforços de teste.
+  Listar os elementos de produto de trabalho das tarefas de teste.
+</span>
+
+### Prazo:
+<span style="color:blue">
+  A definir
+</span>
+
+### Entradas:
+<span style="color:blue">
+  A definir
+</span>
+
+### Saídas:
+<span style="color:blue">
+  A definir
+</span>
+
+### Fluxo:
+<span style="color:blue">
+  Identificar e Analisar Riscos
+</span>
+
+## Atividade - Identificar e Analisar Riscos
+
+### Responsável(eis):
+### Quando:
+### Como:
+### Prazo:
+### Entradas:
+### Saídas:
+### Fluxo:
+
+## Atividade - Identificar Abordagens de Mitigação de Riscos
+
+### Responsável(eis):
+### Quando:
+### Como:
+### Prazo:
+### Entradas:
+### Saídas:
+### Fluxo:
 
 ## Atividade - Projetar Estratégia de Testes
 
