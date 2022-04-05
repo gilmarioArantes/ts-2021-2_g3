@@ -163,22 +163,87 @@
 ## Atividade - Identificar e Analisar Riscos
 
 ### Responsável(eis):
+<span style="color:blue">
+  - Líder de Testes
+  - Arquiteto de Testes
+</span>
+
 ### Quando:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Como:
+<span style="color:blue">
+  Avaliar se o projeto exige a criação de casos de testes “progressivos”;
+  Avaliar se o projeto exige modificações em casos de testes “regressivos”;
+  Avaliar se o projeto exige adequações na automação dos testes;
+  Avaliar se o projeto exige adequação nas atuais ferramentas empregadas;
+  Avaliar se o projeto exige a aquisição/construção de novas ferramentas;
+  Avaliar se o projeto exige modificações na estruturação do ambiente;
+</span>
+
 ### Prazo:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Entradas:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Saídas:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Fluxo:
+<span style="color:blue">
+  Identificar Abordagens de Mitigação de Riscos
+</span>
 
 ## Atividade - Identificar Abordagens de Mitigação de Riscos
 
 ### Responsável(eis):
+<span style="color:blue">
+  - Líder de Testes
+  - Arquiteto de Testes
+</span>
+
 ### Quando:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Como:
+<span style="color:blue">
+  Definir quais técnicas de testes serão utilizadas para cobrir os riscos;
+  Criar casos de testes especificamente voltados para a cobrir os riscos encontrados;
+  Priorizar a execução de todos os casos de testes associados à esses módulos;
+  Realizar uma análise mais aprofundada dos impactos na modificação desses dois módulos no ambiente de produção, levando em consideração o histórico de falhas;
+  Negociar o aumento do prazo para a entrega do projeto, visto que foram detectados pontos críticos nos módulos 3 e 4 (esse ponto pode estar diretamente relacionado ao anterior).
+</span>
+
 ### Prazo:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Entradas:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Saídas:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Fluxo:
+<span style="color:blue">
+  Projetar Estratégia de Testes
+</span>
 
 ## Atividade - Projetar Estratégia de Testes
 
