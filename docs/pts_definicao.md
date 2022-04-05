@@ -66,9 +66,9 @@
 
 # Planejar
 
-<!--![Figura 2 - Fase de planejamento](./images/Processo_Teste_Software-Planejar1.0.png)-->
+<!--![Figura 2 - Fase de planejamento](./images/Teste_de_Software-1.0.png)-->
 <div align="center">
-  <img src="./imagens/Processo_Teste_Software-Planejar1.0.png">
+  <img src="./imagens/Teste_de_Software-1.0.png">
   <figcaption><br/>Figura 2 - Fase de planejamento</figcaption>
   </div>
 <br>
