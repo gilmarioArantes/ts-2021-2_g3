@@ -93,6 +93,8 @@
 ### Como:
 <span style="color:blue">
 
+  Avaliar os novos requisitos propostos pelo cliente, buscando associação com os requisitos já abordados. Validar arquitetura e ambientes com relação aos custos esperado pelo cliente.
+
   - Estudar as modificações solicitadas pelo Cliente (novos requisitos)
   - Estudar as modificações de arquiteturas dos aplicativos
   - Estudar as lições aprendidas dos Projetos Anteriores
@@ -108,7 +110,7 @@
 
 ### Entradas:
 <span style="color:blue">
-  Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, etc.
+  Na realização do estudo do projeto e reavaliação dos requisitos é necessário todos os dados novos, mudanças, novas arquiteturas, riscos envolvidos e impactos no processo.
 </span>
 
 ### Saídas:
@@ -133,10 +135,13 @@
 
 ### Quando:
 <span style="color:blue">
+  Após a reavaliação do projeto.
 </span>
 
 ### Como:
 <span style="color:blue">
+
+  Esta etapa é reponsável pela definição de uma proposta de testes baseada nas expectativas do Cliente em relação à prazos, custos e qualidade esperada, possibilitando dimensionar a equipe e estabelecer um esforço de acordo com as necessidades apontadas pelo Cliente.
 
   - Identificar informações existentes do projeto e o software que deve ser testado
   - Listar os requisitos de teste recomendados (nível alto)
@@ -148,17 +153,17 @@
 
 ### Prazo:
 <span style="color:blue">
-  A definir
+  Definir prazos estipulados com cliente e respeitando o tempo das atividades do Plano de Teste.
 </span>
 
 ### Entradas:
 <span style="color:blue">
-  A definir
+  Análise do escopo de novos requisitos do cliente, custos, análise de riscos, todas as informaçãoes sobre mudanças e incremento de funcionalidades.
 </span>
 
 ### Saídas:
 <span style="color:blue">
-  A definir
+  Plano de Teste elaborado, alinhado as expectativas do cliente e a realidade das atividades.
 </span>
 
 ### Fluxo:
