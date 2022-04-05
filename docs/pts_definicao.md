@@ -123,8 +123,10 @@
 
 ### Responsável(eis):
 <span style="color:blue">
+
   - Líder de Testes
   - Arquiteto de Testes
+
 </span>
 
 ### Quando:
