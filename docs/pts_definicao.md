@@ -59,9 +59,9 @@
 |Identificar Abordagens de Mitigação de Riscos|-|Executa|Executa|
 |Projetar Estratégia de Testes|Executa|Colabora|Colabora|
 |Determinar Equipe e Agendamento|Executa|Colabora|Colabora|
-|Registrar Plano de Teste|-|-|-|
-|Aprovação do Plano de Teste|-|-|-|
-|Comunicar Plano de Teste e Disponibilizá-lo|-|-|-|
+|Registrar Plano de Teste|Executa|Colabora|Colabora|
+|Aprovação do Plano de Teste|Executa|Colabora|Colabora|
+|Comunicar Plano de Teste e Disponibilizá-lo|-|Executa|Colabora|
 
 ## Ambiente de teste
 
