@@ -8,6 +8,7 @@ Carlos
 - Identificar e Analisar Riscos
 - Identificar Abordagens de Mitigação de Riscos
 - Projetar Estratégia de Testes
+
 Kesley
 - Determinar Equipe e Agendamento
 - Registrar Plano de Teste
