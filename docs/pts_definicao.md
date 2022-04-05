@@ -86,6 +86,9 @@
 </span>
 
 ### Quando:
+<span style="color:blue">
+ Início do planejamento.
+</span>
 
 ### Como:
 <span style="color:blue">
@@ -119,12 +122,43 @@
 ## Atividade - Desenvolver Plano de Teste
 
 ### Responsável(eis):
+<span style="color:blue">
+  - Líder de Testes
+  - Arquiteto de Testes
+</span>
+
 ### Quando:
+<span style="color:blue">
+</span>
+
 ### Como:
+<span style="color:blue">
+  Identificar informações existentes do projeto e o software que deve ser testado.
+  Listar os requisitos de teste recomendados (nível alto).
+  Recomendar e descrever as estratégias de teste a serem empregadas.
+  Identificar os recursos requeridos e fornecer uma estimativa dos esforços de teste.
+  Listar os elementos de produto de trabalho das tarefas de teste.
+</span>
+
 ### Prazo:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Entradas:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Saídas:
+<span style="color:blue">
+  A definir
+</span>
+
 ### Fluxo:
+<span style="color:blue">
+  Identificar e Analisar Riscos
+</span>
 
 ## Atividade - Identificar e Analisar Riscos
 
