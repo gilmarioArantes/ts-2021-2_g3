@@ -75,6 +75,14 @@
 
 <span style="color:blue">Descrever a fase de planejamento, junto com suas respectivas tarefas e papéis responsáveis. Criar um diagrama bpm para apresentar visualmente as atividades componentes desta fase.</span>
 
+## Atividade - Estudar Projeto
+
+## Atividade - Desenvolver Plano de Teste
+
+## Atividade - Identificar e Analisar Riscos
+
+## Atividade - Identificar Abordagens de Mitigação de Riscos
+
 ## Atividade - Definir conjunto de funcionalidades
 
 <span style="color:blue">
