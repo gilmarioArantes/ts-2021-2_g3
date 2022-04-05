@@ -53,12 +53,15 @@
 
 ||Coordenador de Testes|Líder de Testes|Arquiteto de Testes|
 |------|------|------|------|
-|Estudo do Projeto|Executa|Colabora|Colabora|
-|Avaliação de Impacto|-|Executa|Executa|
-|Análise Interna Esforço|-|Executa|Executa|
-|Análise Externa Esforço|-|Executa|Executa|
-|Definição de Cenários Possíveis|Executa|Colabora|Colabora|
-|Aprovação do Planejamento|Executa|Colabora|Colabora|
+|Estudar Projeto|Executa|Colabora|Colabora|
+|Desenvolver Plano de Teste|-|Executa|Executa|
+|Identificar e Analisar Riscos|-|Executa|Executa|
+|Identificar Abordagens de Mitigação de Riscos|-|Executa|Executa|
+|Projetar Estratégia de Testes|Executa|Colabora|Colabora|
+|Determinar Equipe e Agendamento|Executa|Colabora|Colabora|
+|Registrar Plano de Teste|-|-|-|
+|Aprovação do Plano de Teste|-|-|-|
+|Comunicar Plano de Teste e Disponibilizá-lo|-|-|-|
 
 ## Ambiente de teste
 
