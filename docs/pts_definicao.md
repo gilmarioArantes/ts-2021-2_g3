@@ -92,11 +92,11 @@
 
 ### Como:
 <span style="color:blue">
-  Estudar as modificações solicitadas pelo Cliente (novos requisitos);
-  Estudar as modificações de arquiteturas dos aplicativos;
-  Estudar as lições aprendidas dos Projetos Anteriores;
-  Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente;
-  Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo;
+  - Estudar as modificações solicitadas pelo Cliente (novos requisitos);
+  - Estudar as modificações de arquiteturas dos aplicativos;
+  - Estudar as lições aprendidas dos Projetos Anteriores;
+  - Avaliar expectativas de custos, prazos e qualidade exigidas pelo Cliente;
+  - Avaliar os riscos envolvidos nos Projetos e seus impactos neste processo;
 </span>
 
 ### Prazo:
@@ -133,11 +133,11 @@
 
 ### Como:
 <span style="color:blue">
-  Identificar informações existentes do projeto e o software que deve ser testado.
-  Listar os requisitos de teste recomendados (nível alto).
-  Recomendar e descrever as estratégias de teste a serem empregadas.
-  Identificar os recursos requeridos e fornecer uma estimativa dos esforços de teste.
-  Listar os elementos de produto de trabalho das tarefas de teste.
+  - Identificar informações existentes do projeto e o software que deve ser testado.
+  - Listar os requisitos de teste recomendados (nível alto).
+  - Recomendar e descrever as estratégias de teste a serem empregadas.
+  - Identificar os recursos requeridos e fornecer uma estimativa dos esforços de teste.
+  - Listar os elementos de produto de trabalho das tarefas de teste.
 </span>
 
 ### Prazo:
@@ -175,12 +175,12 @@
 
 ### Como:
 <span style="color:blue">
-  Avaliar se o projeto exige a criação de casos de testes “progressivos”;
-  Avaliar se o projeto exige modificações em casos de testes “regressivos”;
-  Avaliar se o projeto exige adequações na automação dos testes;
-  Avaliar se o projeto exige adequação nas atuais ferramentas empregadas;
-  Avaliar se o projeto exige a aquisição/construção de novas ferramentas;
-  Avaliar se o projeto exige modificações na estruturação do ambiente;
+  - Avaliar se o projeto exige a criação de casos de testes “progressivos”;
+  - Avaliar se o projeto exige modificações em casos de testes “regressivos”;
+  - Avaliar se o projeto exige adequações na automação dos testes;
+  - Avaliar se o projeto exige adequação nas atuais ferramentas empregadas;
+  - Avaliar se o projeto exige a aquisição/construção de novas ferramentas;
+  - Avaliar se o projeto exige modificações na estruturação do ambiente;
 </span>
 
 ### Prazo:
@@ -218,11 +218,11 @@
 
 ### Como:
 <span style="color:blue">
-  Definir quais técnicas de testes serão utilizadas para cobrir os riscos;
-  Criar casos de testes especificamente voltados para a cobrir os riscos encontrados;
-  Priorizar a execução de todos os casos de testes associados à esses módulos;
-  Realizar uma análise mais aprofundada dos impactos na modificação desses dois módulos no ambiente de produção, levando em consideração o histórico de falhas;
-  Negociar o aumento do prazo para a entrega do projeto, visto que foram detectados pontos críticos nos módulos 3 e 4 (esse ponto pode estar diretamente relacionado ao anterior).
+  - Definir quais técnicas de testes serão utilizadas para cobrir os riscos;
+  - Criar casos de testes especificamente voltados para a cobrir os riscos encontrados;
+  - Priorizar a execução de todos os casos de testes associados à esses módulos;
+  - Realizar uma análise mais aprofundada dos impactos na modificação desses dois módulos no ambiente de produção, levando em consideração o histórico de falhas;
+  - Negociar o aumento do prazo para a entrega do projeto, visto que foram detectados pontos críticos nos módulos 3 e 4 (esse ponto pode estar diretamente relacionado ao anterior).
 </span>
 
 ### Prazo:
