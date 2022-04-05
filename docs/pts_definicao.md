@@ -189,6 +189,8 @@
 ### Como:
 <span style="color:blue">
 
+Planejar um curso do projeto de avaliação de riscos. Estabelecer o escopo antes de começar o trabalho, atenção ao planejamento do projeto, acompanhe e avalie constantemente o progresso.
+
   - Avaliar se o projeto exige a criação de casos de testes “progressivos”
   - Avaliar se o projeto exige modificações em casos de testes “regressivos”
   - Avaliar se o projeto exige adequações na automação dos testes
