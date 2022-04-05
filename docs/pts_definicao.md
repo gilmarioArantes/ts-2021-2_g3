@@ -65,7 +65,9 @@
 
 ## Ambiente de teste
 
-<span style="color:blue">Descrever o ambiente de testes, que envolve tanto software, quanto infraestrutura.</span>
+<span style="color:blue">
+  Descreva o hardware e suas configurações, quais softwares. Por exemplo, sistema operacional, browsers, servidores web, etc.
+</span>
 
 # Planejar
 
