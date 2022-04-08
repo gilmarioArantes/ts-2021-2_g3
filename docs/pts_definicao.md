@@ -22,10 +22,8 @@
 
 | Versão | Data       | Alteração                             | Autor          |
 | ------ | ---------- | ------------------------------------- | -------------- |
-| 0.1    | 24/04/2019 | Elaboração do Documento               | gilmar.arantes |
-| 0.2    | 26/04/2019 | Revisão da versão 0.1                 | gilmar.arantes |
-| 0.3    | 08/08/2019 | Correções e Atualizações              | gilmar.arantes |
-| 0.4    | 24/06/2020 | Adaptação às novas tecnologias da STI | gilmar.arantes |
+| 0.1    | 08/04/2022 | Elaboração do Documento               | Grupo |
+
 
 # Introdução
 
@@ -317,6 +315,10 @@ Neste momento deve-se definir quais os tipo de testes serão realizados:
   - Teste de Sistema
   - Teste de Integração
   - Teste de Unidade
+  - Teste de Segurança
+  - Teste de Processamento
+  - Teste de Usabilidade
+  - Teste de Regressão
 
 </span>
 
@@ -324,9 +326,9 @@ Neste momento deve-se definir quais os tipo de testes serão realizados:
 
 <span style="color:blue">
 
-Nesta etapa o Coordenador de Teste deve responder às seguintes perguntas: Quem vai testar? Quando o teste ocorrerá? Quem vai testar?
+Nesta etapa o Coordenador de Teste deve responder às seguintes perguntas: Quem vai testar? Quando o teste ocorrerá? 
 
-Inicie selecionando o membro certo para a tarefa especificada, você deve considerar se a habilidade dele está qualificada para a tarefa ou não, também estimar o orçamento do projeto. Selecionar um membro errado para a tarefa pode causar falha ou atraso no projeto. A pessoa com as seguintes habilidades é a mais ideal para realizar testes de software:
+Deve se iniciar selecionando o membro certo para a tarefa especificada, você deve considerar se a habilidade dele está qualificada para a tarefa ou não, também estimar o orçamento do projeto. Selecionar um membro errado para a tarefa pode causar falha ou atraso no projeto. A pessoa com as seguintes habilidades é a mais ideal para realizar testes de software:
 
   - Capacidade de entender o ponto de vista dos clientes
   - Forte desejo de qualidade
@@ -363,8 +365,8 @@ Especifica os critérios que indicam uma conclusão bem-sucedida de uma fase de 
 
 ### Como
 
-<span style="color:blue">Cada atividade de teste necessária na Estratégia de Teste deve ser agendada com base nas estimativas, dependências
-e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para poder utilizar no momitoramento do progresso do projeto.</span>
+<span style="color:blue">Cada atividade de teste necessária na Estratégia de Teste deve ser agendada com base nas estimativas, dependências e disponibilidade de pessoal, fazendo um cronogram para o gerenciamento, para poder utilizar no momitoramento do progresso do projeto.</span>
+
 <span style="color:blue">A aprovação de pessoal e programação deve ser obtida das partes interessadas relevantes.</span>
 
 ### Entradas
